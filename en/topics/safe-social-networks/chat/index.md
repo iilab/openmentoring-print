@@ -1,13 +1,13 @@
 # Protect Yourself And Your Data When Using Social Networking Sites
 
-## Scenario
-
-Arun and Priya are human rights defenders in south Asia and communicate via Facevook. However, law enforcement agencies in their country are able to intercept their Facebook instant messages and calls because they are unencrypted. As a result, the local police is able to know of their activities in advance and to block them in various occassions.
-
-***
 ## Introduction
 
 Here you can learn how to encrypt your Facebook voice calls and instant messages. By doing so, you can enhance the privacy and security of your communications. The good news is that this is quite easy to do! Continue reading to learn more.  
+
+***
+## Scenario
+
+Arun and Priya are human rights defenders in south Asia and communicate via Facevook. However, law enforcement agencies in their country are able to intercept their Facebook instant messages and calls because they are unencrypted. As a result, the local police is able to know of their activities in advance and to block them in various occassions.
 
 ***
 ## Learn
@@ -147,6 +147,10 @@ https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png
 Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
 
 ***
+## Test you social networking knowledge!
+
+
+***
 ## Next
 
 
@@ -155,8 +159,4 @@ Jitsi lets you voice and video chat with more than one person. Note that with th
  * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
  * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
  * [Do I trust everyone with whom I&#39;m connected?](safe-social-networks-establishing-trust)
-***
-## Test you social networking knowledge!
-
-
 ***
