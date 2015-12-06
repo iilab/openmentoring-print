@@ -1,6 +1,6 @@
 # After an Emergency
 
-## Introduction
+## Scenario
 
-Introduction text...
+Scenario text...
 ***
