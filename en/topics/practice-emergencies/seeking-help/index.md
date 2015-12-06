@@ -1,6 +1,6 @@
 # Seeking Remote Help
 
-## Introduction
+## Scenario
 
-Introduction text...
+Scenario text...
 ***
