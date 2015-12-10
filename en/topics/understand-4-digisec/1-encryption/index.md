@@ -1,6 +1,0 @@
-# Encryption
-
-## Introduction
-
-Introduction text...
-***

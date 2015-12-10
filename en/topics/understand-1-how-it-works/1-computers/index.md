@@ -1,6 +1,0 @@
-# Computers
-
-## Introduction
-
-Introduction text...
-***

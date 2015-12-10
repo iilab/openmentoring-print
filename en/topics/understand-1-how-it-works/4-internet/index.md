@@ -1,6 +1,0 @@
-# Internet
-
-## Introduction
-
-Introduction text...
-***
