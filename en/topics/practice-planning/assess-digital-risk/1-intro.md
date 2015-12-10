@@ -1,11 +1,57 @@
 
 ## Introduction
 
-In this chapter, you learn how to understand the nature of the risk we face with digital data (**_risk assesment_**), so that we can make the right decisions about how best to stay safe.
+In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, &gt; **who** is behind them, and &gt; **why**.
 
-Perhaps without realising, we take decisions based on risk analyses every day: you may chose  to lock your office doors when you leave in the evening, to deter thieves. 
+In order to &#39;map&#39; the **actors** relevant to our work and our well-being, we might consider dividing them into three categories:
 &lt;!--more--&gt;
 
-The idea of this section is to consider that same logic, as it applies to our digital activities, both as journalists and as private people.
+1. **Resisting forces**: These are actors who try to prevent us from successfully carrying out our work. 
+In some cases it may be agents of the State, who often threaten, stigmatise, arrest, detain, mistreat and prosecute Journalists. In other cases, it may be social actors – religious institutions or groups, political movements, armed groups, or even family members – who try to prevent us from promoting and defending human rights.
 
-Defination: **Risk** refers to possible events, however uncertain, that result in harm.
+&lt;!--more--&gt;
+
+Getting a sense of who these actors are will help us to understand the nature of the threats to ourselves, our community and our information. Different actors will pose different threats to our security, and indeed our digital security: while the State, for example, may have the capacities to listen to our mobile calls, or place viruses on our computers to monitor our online activities, non-State actors or even common criminals could gather a huge amount of information about us by just monitoring our Facebook page, if everything is open and public. Therefore, if we think about what we are up against, we can take the right measures to keep them guessing and keep working.
+
+&lt;!--more--&gt;
+
+2. **Supporting forces**: These are our friends and allies, who try to support our project in one way or another.
+
+As part of this &#39;actor mapping&#39; exercise, you should also consider the actors who are on your side, whether local, regional or international: these could include friends, community members, police, other organisations, embassies and so on. It will be important for you to spread your digital security practices among your allies.
+
+&lt;!--more--&gt;
+
+3. **Unknown forces**: These are other actors whose exact intentions, with regard to our security and the success of our work, are unknown or ambiguous.
+
+An example may be your Internet Service Provider (ISP) or companies such as Facebook or Google, on whom we depend for a lot of our online activities and who may collect and store a lot of information about us. For example, an ISP, social network or e-mail provider could be legally pressured by a government to hand over information such as your browsing history, chat logs or emails. 
+
+&lt;!--more--&gt;
+Due to the large amount of information they collect about your activities, they may also be targets for malicious hackers who want to access that information about you.
+
+&lt;!--more--&gt;
+
+&gt;**ASSESSING RISK**
+&gt;**Risk refers** to possible events, however uncertain, that result in harm.
+
+You can think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
+
+&lt;!--more--&gt;
+
+&gt;**Threats** refer to a declaration or indication of an intention to inflict harm. 
+The higher the threats, the higher your risk.
+An example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.
+
+&lt;!--more--&gt;
+
+&gt;**Vulnerabilities** refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk. An example of a vulnerability may be having a very short, simple and easy to break password, like &#39;123456&#39;.
+
+&lt;!--more--&gt;
+
+&gt;**Capacities** refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk. An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
+It&#39;s worth noting that capacities and vulnerabilities are often &quot;two sides of the same coin&quot;.
+
+&lt;!--more--&gt;
+
+&gt;**IDENTIFYING THREATS, CAPACITIES AND VULNERABILITIES**
+
+It may help for you to map them out on a matrix, like this:![Matrix1]({{site.baseurl}}/en/topics/practice-planning/assess-digital-risk/DeepinScreenshot20151210152002.png)
