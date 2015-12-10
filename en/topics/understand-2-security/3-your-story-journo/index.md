@@ -1,6 +1,6 @@
 # Your Story
 
-## Introduction
+## Scenario
 
-Introduction text...
+Scenario text...
 ***

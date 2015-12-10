@@ -1,6 +1,6 @@
 # Metadata
 
-## Introduction
+## Scenario
 
-Introduction text...
+Scenario text...
 ***
