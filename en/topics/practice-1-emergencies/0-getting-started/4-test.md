@@ -1,7 +1,7 @@
 
 ## Test
 
-&lt;quiz name=&quot;Gitbook Quiz&quot;&gt;
+&lt;quiz name=&quot;What this guide can help you with&quot;&gt;
     &lt;question multiple&gt;
         &lt;p&gt;What is the digital first aid kit used for?&lt;/p&gt;
         &lt;answer correct&gt;To help diagnose problems you might face&lt;/answer&gt;
