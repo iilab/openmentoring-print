@@ -1,6 +1,6 @@
 # Preparing for emergencies with your contacts
 
-## Introduction
+## Scenario
 
-Introduction text...
+Scenario text...
 ***
