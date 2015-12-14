@@ -1,6 +1,6 @@
 # Computers
 
-## Introduction
+## Scenario
 
-Introduction text...
+Scenario text...
 ***
