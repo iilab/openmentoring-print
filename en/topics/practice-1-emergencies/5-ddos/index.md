@@ -1,6 +1,6 @@
 # DDOS Attack
 
-## Scenario
+## Introduction
 
-Scenario text...
+Introduction text...
 ***
