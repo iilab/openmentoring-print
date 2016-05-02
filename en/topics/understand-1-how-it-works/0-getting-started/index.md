@@ -1,6 +1,7 @@
 # Getting Started
 
-## Scenario
+## Introduction
 
-Scenario text...
+How it works
+
 ***
