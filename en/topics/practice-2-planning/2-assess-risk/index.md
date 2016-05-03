@@ -1,6 +1,6 @@
 # Assessing Security Risks
 
-## Scenario
+## Introduction
 
-Scenario text...
+Introduction text...
 ***
