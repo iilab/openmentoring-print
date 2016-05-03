@@ -1,6 +1,6 @@
 # Your colleagues
 
-## Scenario
+## Introduction
 
-Scenario text...
+Introduction text...
 ***
