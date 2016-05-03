@@ -1,18 +1,8 @@
 # Account Hijacking
 
-## Introduction
+## Learn
 
-This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
-
+Look at the account settings. Have they changed?
 &lt;br&gt;
-
-Key takeaways will include:
-- How to mitigate the problem
-- Reviewing account activity
-- Adjusting account settings
-- Changing account passwords
-- Next steps
-&lt;br&gt;
-
-
+For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 ***
