@@ -1,7 +1,6 @@
 
 ## Learn
 
-Things to keep in mind when reaching for help
 Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
 &lt;br&gt;
 You should presume an adversary may have access to all your account details as well as your original communications when seeking help.
