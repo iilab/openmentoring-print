@@ -1,6 +1,6 @@
 # Protecting Identity
 
-## Scenario
+## Introduction
 
-Scenario text...
+Introduction text...
 ***
