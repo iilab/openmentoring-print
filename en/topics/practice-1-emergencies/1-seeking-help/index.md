@@ -1,10 +1,13 @@
 # Seeking Remote Help
 
-Secure communication is always a trade-off between security and convenience. 
-&lt;br&gt;
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-&lt;br&gt;
-When communicating there are different levels of security. This section focuses on protecting the content of your communications. You can read more about [protecting the identity](5-learn-identity.md) of the participants.
-&lt;br&gt;
-A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
+## Test
+
+&lt;quiz name=&quot;&quot;&gt;
+    &lt;question&gt;
+        &lt;p&gt;Landlines are not encrypted but mobile phones are&lt;/p&gt;
+        &lt;answer correct&gt;Yes&lt;/answer&gt;
+        &lt;answer&gt;No&lt;/answer&gt;
+        &lt;explanation&gt; Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.&lt;/explanation&gt;
+    &lt;/question&gt;
+&lt;/quiz&gt;
 ***
