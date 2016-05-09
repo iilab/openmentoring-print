@@ -1,6 +1,6 @@
 # Your Well Being
 
-## Scenario
+## Introduction
 
-Scenario text...
+Introduction text...
 ***
