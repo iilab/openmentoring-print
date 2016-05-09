@@ -1,6 +1,6 @@
 # Understanding Threats
 
-## Scenario
+## Introduction
 
-Scenario text...
+Introduction text...
 ***
