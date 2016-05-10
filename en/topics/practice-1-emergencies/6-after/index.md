@@ -1,9 +1,6 @@
 # After an Emergency
 
-## Introduction
+## Scenario
 
-This section describe what to do after an emergency takes place.
-&lt;br&gt;
-Key takeaway for this section will be:
-
+Scenario text...
 ***
