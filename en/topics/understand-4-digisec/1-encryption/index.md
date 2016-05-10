@@ -1,3 +1,6 @@
 # Encryption
+
+## Introduction
+
 Introduction text...
 ***

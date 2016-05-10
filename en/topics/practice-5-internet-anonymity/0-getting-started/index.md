@@ -1,4 +1,7 @@
 # Getting Started
+
+## Introduction
+
 In this chapter you are going to learn how to be anonymous while using internet using a software tool called Tor.
 
 &lt;br&gt;
