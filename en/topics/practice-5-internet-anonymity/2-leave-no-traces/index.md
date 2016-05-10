@@ -1,6 +1,6 @@
 # How to leave less traces while browsing
 
-## Scenario
+## Introduction
 
-Scenario text...
+Introduction text...
 ***
