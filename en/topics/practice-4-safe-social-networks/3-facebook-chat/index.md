@@ -1,28 +1,45 @@
 # How to chat securely?
 
-**How to add a Facebook account on Jitsi**
-Facebook has two settings that you might need to change before Jitsi can connect to your Facebook Chat.
-&lt;br&gt;
-**Facebook Username**
+**How to encrypt your Facebook instant messages**
 
-Facebook requires a username for Jitsi to connect to Facebook chat. Many Facebook users already have a username. To check your username, log in to your Facebook account: your username is what appears in the location bar of your browser after https://www.facebook.com/ when you view your Timeline or Page. Your username is also included in your Facebook email address (e.g. username@facebook.com). 
+OTR is supported by Jitsi and can be used to encrypt your instant messages. You can enable the encryption of your instant messages through the following steps:
 &lt;br&gt;
-You can get a new Facebook username by going to your Account Settings &gt; General section or by visiting https://www.facebook.com/username. To set a new username Facebook might want to verify your account, which might require sending an SMS to a mobile phone number which you will need to provide to Facebook in the verification process. For more details see Facebook’s explanation of usernames.
+**Step 1:** Select **Tools &gt; Options** from the Jitsi menu and subsequently select the **Security** tab and its **Chat** sub-tab. You will then see a window similar to one shown in the image below:
+
+https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-35.png 
+
+**Step 2:** Click on the **&quot;Generate&quot;** button. As a result you will see the fingerprint of the key that has been generated:
+
+https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-36.png 
+
+One key is generated for each account. You only need to do this again if you add a new account or install Jitsi on another device and do not move the existing keys to it.
+
+You are now ready to communicate:
+&lt;Br&gt;
+**Step 3:** Select a contact from the Jitsi main window and click on the *send message icon* (first from the left under the contact&#39;s name) to open a text chat window:
+
+https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-37.png
+
+Note the Encrypt chat with OTR icon, the open padlock on the right-top side of the window. This inconspicuous symbol informs you whether the chat is encrypted or not. Now the lock is open (there is a tiny space between handle and the body of the lock!).
 &lt;br&gt;
-**App Settings**
+**Step 4:** Click on the Encrypt chat with OTR icon. Note the changes in the window:
+https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-38.png
 
-Facebook’s “application platform” needs to be turned on before Jitsi can connect to Facebook Chat. Visit your Facebook Account Settings &gt; Apps section and check that the setting for “Apps you use” is turned “On”. 
+Observe that the padlock is now locked. This means that whatever messages you and your contact send to each other are encrypted. Note the message that this is an unverified private conversation and that you should authenticate your contact.
 &lt;br&gt;
-**Note:** Turning Facebook’s &quot;application platform&quot; on opens up much of your Facebook data to third-party application developers. This data is available not only to the Facebook applications that you use, but also to the Facebook applications used by any of your friends. After turning on Facebook’s &quot;application platform&quot;, be sure to check the settings under &quot;Apps others use&quot;.
+**Step 5:** click on the link authenticate sally.the.doer@jit.si to open the Authenticate Buddy window:
+
+https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-39.png
+
+Note the message that encourages you to compare the fingerprints of your keys with your contact over another channel (not this text chat). In doing this, you can be more certain that you are communicating with your contact and not somebody else. A good choice for key comparisons is to do it face to face, or via video or voice communication as these provide easier means to authenticate the identity of the other person. After you compare fingerprints, select the option I have verified the fingerprint from the pull-down menu and click on Authenticate Buddy:
+
+https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-40.png 
 &lt;br&gt;
-This setting allows you to hide some personal information from applications used by your friends. Unfortunately, Facebook does not offer settings to hide all personal information. Certain categories of information (like your friend list, gender, or info you have made public) are visible as long as Facebook’s &quot;application platform&quot; is turned &quot;on&quot;. It is up to you to determine whether this is an acceptable trade-off.
+Closing the Authenticate Buddy window returns you to the chat window:
+
+https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-41.png 
+
+Note that padlock no longer includes the orange triangle with the white exclamation mark. This means that you have authenticated your contact. The authentication should be done only once per contact. If the triangle with exclamation mark returns, it means that you are chatting to somebody who you have not yet authenticated.
 &lt;br&gt;
-Now you are prepared to add your Facebook account on Jitsi. To do this follow the steps below:
-
-**Step 1:** Select **File &gt; Add New Account...** in the main menu bar of Jitsi.
-
-**Step 2:** In the &quot;Add New Account&quot; dialogue, *Network* menu choose Facebook, enter your username and password and Click **&quot;Add&quot;**.
-
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-16.png
-
+This can happen when your contact moves to another device with another encryption key (another installation of Jitsi, or another OTR enabled program, etc.). In this case you will need to re-authenticate each other again to be sure of the identity of person with whom you communicate.
 ***
