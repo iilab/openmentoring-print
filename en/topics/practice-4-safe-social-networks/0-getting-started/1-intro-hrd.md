@@ -2,11 +2,8 @@
 ## Introduction
 
 If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
-
 &lt;br&gt;
-
 Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
-
 &lt;br&gt;
 This section, adopted from Tactical Technology Collective&#39;s [Security in a Box,](https://securityinabox.org/) will provide an overview of how to use social networks safer. Topics to be covered include:
 - Getting started with Social Networks
