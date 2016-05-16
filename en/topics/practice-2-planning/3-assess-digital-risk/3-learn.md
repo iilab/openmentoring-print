@@ -2,7 +2,7 @@
 ## Learn
 
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
-
+&lt;br&gt;
 In order to &#39;map&#39; the **actors** relevant to our work and our well-being, we might consider dividing them into three categories:
 &lt;br&gt;
 
