@@ -15,13 +15,13 @@ When we talk about the first question, we often refer to assets, or the things t
 Write down a list of data that you keep, where it’s kept, who has access to it, and what stops others from accessing it.
 &lt;br&gt;
 In order to answer the second question, “Who do you want to protect it from,” it’s important to understand who might want to target you or your information, or who is your adversary. An adversary is any person or entity that poses a threat against an asset or assets. Examples of potential adversaries are your boss, your government, or a hacker on a public network.
-
+&lt;br&gt;
 Make a list of who might want to get ahold of your data or communications. It might be an individual, a government agency, or a corporation.
 &lt;br&gt;
 A threat is something bad that can happen to an asset. There are numerous ways that an adversary can threaten your data. For example, an adversary can read your private communications as they pass through the network, or they can delete or corrupt your data. An adversary could also disable your access to your own data.
 &lt;br&gt;
 The motives of adversaries differ widely, as do their attacks. A government trying to prevent the spread of a video showing police violence may be content to simply delete or reduce the availability of that video, whereas a political opponent may wish to gain access to secret content and publish it without you knowing.
-
+&lt;br&gt;
 Write down what your adversary might want to do with your private data.
 &lt;br&gt;
 The capability of your attacker is also an important thing to think about. For example, your mobile phone provider has access to all of your phone records and therefore has the capability to use that data against you. A hacker on an open Wi-Fi network can access your unencrypted communications. Your government might have stronger capabilities.
