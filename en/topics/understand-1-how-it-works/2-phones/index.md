@@ -1,6 +1,3 @@
 # Phones
-
-## Introduction
-
 Introduction text...
 ***
