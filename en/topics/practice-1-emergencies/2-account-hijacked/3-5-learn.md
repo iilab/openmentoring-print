@@ -1,5 +1,5 @@
 
-## Learn
+## Adjusting account settings
 
 Look at the account settings. Have they changed?
 &lt;br&gt;

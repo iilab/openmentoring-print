@@ -1,5 +1,5 @@
 
-## Learn
+## Reviewing Account Activity
 
 For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
 &lt;br&gt;
