@@ -1,14 +1,15 @@
 
-## Learn
-
-&lt;!--Perhaps there&#39;s a way here to have users select the situation that applies to them, rather than making users have to go through lots of information that doesn&#39;t concern them. This would improve flow. One idea here would be, &quot;Is your device still missing? Do you have your device back?&quot;--&gt;
+## Mitigating the problem
 
 If your device is still missing take the following four steps:
+&lt;br&gt;
 - Step 1: When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.
+&lt;br&gt;
 - Step 2: Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the Account Hijacked section.
+&lt;br&gt;
 - Step 3: Turn on 2-factor authentication for all accounts that were accessible by this device. Please note that not all accounts support 2-factor authentication.
+&lt;br&gt;
 - Step 4: If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
-
 &lt;br&gt;
 If you get your device back, take the following steps:
 -Be careful as you do not know who has had access to your device.
@@ -17,7 +18,6 @@ If you get your device back, take the following steps:
 - Who potentially could have had access to it?
 - Why would they want access to it?
 - Are there signs that the device has been physically tampered with?
-
 &lt;br&gt;
 If you have lost contact with your device for an extended period of time and you feel there is a chance that something has been installed on it, please consider the following:
 - Computer: reinstall the OS from scratch and recover all documents from the last backup and scan all your documents and files with antivirus software. For more guidance on this, see cleaning up your device in the malware section.
