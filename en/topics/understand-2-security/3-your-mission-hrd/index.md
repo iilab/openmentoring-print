@@ -1,6 +1,6 @@
 # Your mission
 
-## Introduction
+## Scenario
 
-Introduction text...
+Scenario text...
 ***

@@ -1,5 +1,5 @@
 
-## Learn
+## Changing account passwords
 
 Change the passwords for all your other online accounts that are linked to your hijacked account.
 
