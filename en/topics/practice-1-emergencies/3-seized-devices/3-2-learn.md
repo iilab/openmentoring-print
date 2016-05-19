@@ -1,5 +1,5 @@
 
-## Learn
+## Identifying security protections the missing device has in place
 
 Think about the kinds of security protections the device had in place:
 &lt;br&gt;

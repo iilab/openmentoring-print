@@ -1,5 +1,5 @@
 
-## Learn
+## Identifying what was on the missing device
 
 Think about the content of what you had on the device. Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more.
 &lt;br&gt;
