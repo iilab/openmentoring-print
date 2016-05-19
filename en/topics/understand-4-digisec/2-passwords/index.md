@@ -1,6 +1,3 @@
 # Passwords
-
-## Introduction
-
 Introduction text...
 ***

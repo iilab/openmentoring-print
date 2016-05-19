@@ -1,4 +1,3 @@
-# Seeking Remote Help
 
 ## Learn
 
@@ -12,5 +11,3 @@ This adversary has an obvious interest in intercepting your secure communication
 Security tools have built-in ways to verify if the person you are talking to is actually the person you think you are talking to.
 
 When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
-
-***
