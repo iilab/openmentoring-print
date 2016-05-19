@@ -1,5 +1,5 @@
 
-## Learn
+## Mitigating the problem
 
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
 &lt;br&gt;
