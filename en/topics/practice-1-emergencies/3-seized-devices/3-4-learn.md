@@ -13,7 +13,7 @@ If your device is still missing take the following four steps:
 &lt;br&gt;
 If you get your device back, take the following steps:
 &lt;br&gt;
--Be careful as you do not know who has had access to your device.
+- Be careful as you do not know who has had access to your device.
 &lt;br&gt;
 - Depending on the level of risk you’re facing, you may want to treat the device as if it is now untrusted or compromised. Ask yourself the following questions and assess the risk that your device has been compromised:
 &lt;br&gt;
