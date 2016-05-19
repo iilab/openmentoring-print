@@ -1,5 +1,5 @@
 
-## Learn
+## Social networking basics
 
 Before you use any social networking site it is important to understand how they make you vulnerable, and then take steps to protect yourself and the people you work with.
 &lt;br&gt;

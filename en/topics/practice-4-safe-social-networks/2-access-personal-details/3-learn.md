@@ -1,5 +1,5 @@
 
-## Learn
+## Thing to think about when posting to social networking sites
 
 Ask yourself: is it necessary to post the following information online?
  - birth dates
