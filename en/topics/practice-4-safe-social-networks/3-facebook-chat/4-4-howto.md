@@ -1,5 +1,5 @@
 
-**How to encrypt your Facebook instant messages**
+## Encrypting your Facebook instant messages
 
 OTR is supported by Jitsi and can be used to encrypt your instant messages. You can enable the encryption of your instant messages through the following steps:
 &lt;br&gt;
