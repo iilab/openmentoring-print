@@ -1,18 +1,14 @@
 # Getting Started with Signal
 
-## Learn
+## Introduction
 
-Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
+Signal is an Android and iPhone app for secure messaging and voice calls. Signal is free, open source and is based on two older apps - TextSecure and RedPhone. 
 &lt;br&gt;
-To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
+Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
 &lt;br&gt;
-In it&#39;s current form, Signal requires Android 2.3 and up. Signal is compatable with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
-&lt;br&gt;
-This means that When you use Signal, you can communicate with users using the following programs:
- - Android: surespot, ChatSecure, Zom
- - iOS: surespot, ChatSecure
- - Microsoft Windows: Jitsi, Pidgin
- - Mac OS: Jitsi, Adium
- - Linux: Jitsi, Pidgin
-
+Key takeaways from this section include learning to:
+ - [Things You Should Know About This Tool Before You Start](en/topics/tool-2-signal/0-getting-started/3-learn.md)
+ - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
+ - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
+ - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
 ***

@@ -1,6 +1,6 @@
 # How to prevent your traffic from being watched
 
-## Scenario
+## Introduction
 
-Scenario text...
+Introduction text...
 ***
