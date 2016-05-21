@@ -1,13 +1,8 @@
 # Devices Seized
 
-## Introduction
+## Scenario
 
-In this section, you will learn about what steps to take if your digital devices are seized.
+Chris returned to his organisation&#39;s office after attending a lunch meeting, only to find the laptop he was writing his newest article on is now missing.
 &lt;br&gt;
-Key takeaways from this section include:
-- [Questions to answer when you first notice a device is missing](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
-- [Identifying security protections the missing device has in place](en/topics/practice-1-emergencies/3-seized-devices/3-2-learn.md)
-- [Identifying what was on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-3-learn.md)
-- [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
-
+He is worried that he has not only lost important research, but also put his sources potentially at risk of exposure.
 ***

@@ -1,5 +1,5 @@
 
-## Learn
+## Why choosing a strong password is important
 
 Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
 &lt;br&gt;
