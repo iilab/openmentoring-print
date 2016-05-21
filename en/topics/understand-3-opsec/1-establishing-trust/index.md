@@ -1,6 +1,6 @@
 # Establishing Trust
 
-## Introduction
+## Scenario
 
-Introduction text...
+Scenario text...
 ***
