@@ -1,6 +1,6 @@
 # Secure Communications
 
-## Scenario
+## Introduction
 
-Scenario text...
+Introduction text...
 ***
