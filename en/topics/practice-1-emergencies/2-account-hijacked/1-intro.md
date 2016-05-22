@@ -1,7 +1,7 @@
 
 ## Introduction
 
-![](http://dummyimage.com/400x400/ddd/666.png&amp;text=Unit+landing)
+![](unit.png &quot;Landing image for the unit&quot;)
 
 This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
 &lt;br&gt;
