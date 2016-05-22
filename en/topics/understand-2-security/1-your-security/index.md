@@ -1,8 +1,9 @@
 # Your Security
 
-## Introduction
+## Key takeaways
 
-Journalists often work on stories that may expose them to risk of physical or other forms of harm.
-&lt;br&gt;
-This unit will provide an overview of thinking about security in terms of yourself. 
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
 ***
