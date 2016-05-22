@@ -1,4 +1,3 @@
-# Your Well Being
 
 ## Learn
 
@@ -73,5 +72,3 @@ Discourage negative coping strategies:
 - Don’t be violent
 &lt;br&gt;
 It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term post-traumatic stress disorder. PTSD is addressed in the following unit.
-
-***
