@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![](http://dummyimage.com/400x400/ddd/666.png&amp;text=Unit+landing)
+
 This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
 &lt;br&gt;
 Key takeaways will include:
