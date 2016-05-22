@@ -1,17 +1,6 @@
 
 ## Learn
 
-##What is of chronic stress?
-Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
-&lt;br&gt;
-With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
-&lt;br&gt;
-If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress. 
-&lt;br&gt;
-Not only is this worse for the body physically and mentally, but chronic stress can also erode coping mechanisms. 
-&lt;br&gt;
-Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly manged, chronic stress can lead to burnout. 
-&lt;br&gt;
 ##Effects of chronic stress
 There is a wide range of possible symptoms of negative stress, and people differ in terms of the symptoms they exhibit.
 &lt;br&gt;
@@ -50,14 +39,17 @@ Work-related symptoms may include
 Emotional effects may include
 -Low morale
 -Pessimism and cynicism
-Anxiety
-Guilt
+&lt;br&gt;
+-Anxiety
+-Guilt
 -Depression
 -Excitement/hyper-activity
+&lt;br&gt;
 -A feeling of pwoer and invulnerability
 -Intense identificaiton with, OR lack of compassion for those you work with
 -Nightmares or flashbacks
+&lt;br&gt;
 -Tendency to avoid/repress intense thoughts or feelings
 -Questioning of major life areas
-
+&lt;br&gt;
 Engaging in some of these types of behaviours are security risks in and of themrselves, so it is very important to both the individual affected and your organisation that it is dealt with properly. 
