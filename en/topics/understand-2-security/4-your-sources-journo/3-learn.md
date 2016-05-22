@@ -11,4 +11,4 @@ In some nations, local journalists covering organized crime, national security, 
 &lt;br&gt;
 In order to protect both you and your sources, it is important consider when and how to contact your sources, whether to call them on a landline or cell phone, whether to visit them in their office or home, and whether to use open or secure email or chat message.
 &lt;br&gt;
-Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Instructions on physically securing written files, securing electronic files through encryption and other methods are described in other sections of this toolkt. 
+Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Instructions on physically securing written files, securing electronic files through encryption and other methods are described in other sections of this toolkt.
