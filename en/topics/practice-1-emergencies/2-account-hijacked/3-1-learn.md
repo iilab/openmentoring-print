@@ -7,8 +7,10 @@ If you still have access to the account, take the following steps:
 - Move to a different computer that you believe to be safe or uncompromised
 - Log into your account from the new computer and change the password on your account
 - Stop using this account for sharing of sensitive information until you better understand the situation.
+
+![](http://dummyimage.com/400x400/ddd/666.png&amp;text=Lesson+section+recap)
 &lt;br&gt;
-If you no longer have access to the account, different providers have different recovery procedures or ways to rest passwords.
+If you no longer have access to the account, different providers have different recovery procedures or ways to reset passwords.
 &lt;br&gt;
 Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
 &lt;br&gt;
