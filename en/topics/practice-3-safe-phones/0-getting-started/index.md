@@ -1,6 +1,7 @@
 # Getting Started
 
-## Scenario
+## Introduction
 
-Scenario text...
+This topic covers the fundamentals security basics of mobile phones and devices
+
 ***

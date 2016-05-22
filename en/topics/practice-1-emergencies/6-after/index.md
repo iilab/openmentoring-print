@@ -1,9 +1,9 @@
 # After an Emergency
 
-## Scenario
+## Introduction
 
-Scenario text...
-![](scenario.png &quot;Illustrate scenario 1&quot;)
+This section describe what to do after an emergency takes place.
 &lt;br&gt;
-![](scenario.png &quot;Illustrate scenario 2&quot;)
+Key takeaway for this section will be:
+
 ***
