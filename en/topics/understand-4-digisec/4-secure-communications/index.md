@@ -1,9 +1,6 @@
 # Secure Communications
 
-## Key takeaways
+## Introduction
 
-Key takeaways from this unit include the following:
-- What is secure communication?
-- What to do if you believe your communication channels have been compromised?
-- Encryption tools
+This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech&#39;s [Security in a Box](https://securityinabox.org/) guide
 ***

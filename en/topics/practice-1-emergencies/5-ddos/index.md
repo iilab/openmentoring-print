@@ -1,9 +1,10 @@
 # DDOS Attack
 
-## First steps to take if your website is down or defaced
+## Possible other reasons you may be suffering from a down or defaced website
 
-**Network problem**
-To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
+![](recap.png)
+
+To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
 &lt;br&gt;
-If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
+Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
 ***
