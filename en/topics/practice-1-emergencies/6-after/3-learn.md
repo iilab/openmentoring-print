@@ -1,7 +1,9 @@
 
-## Learn
+## After an emergency
 
-After an emergency has happened, it&#39;s a good time to go back to your emergency and security plans to see what worked and what did not.
+![](recap.png)
+
+Now is a good time to go back to your emergency and security plans to see what worked and what did not.
 &lt;br&gt;
 When necessary, this would be a good time to try to improve your organisational procedures (e.g. procedures when on a mission or when organising a training.), determining the best practice of how to respond to an emergency or not.
 &lt;br&gt;
