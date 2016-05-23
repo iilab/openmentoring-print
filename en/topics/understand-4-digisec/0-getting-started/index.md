@@ -1,4 +1,7 @@
 # Getting Started
+
+## Key takeaways
+
 Key takeaways from this topic include learning about the following:
 - [Encryption](en/topics/understand-4-digisec/1-encryption/1-intro.md)
 - [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md)
