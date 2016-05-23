@@ -2,10 +2,29 @@
 
 ## Learn
 
-##What is post-traumatic stress disorder
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+##Coping strategies for traumatic stress
+Everyone has natural ways of coping. Encourage people to use their own positive coping strategies.
 &lt;br&gt;
-Certain factors such as if you or your family have had depression or anxiety in the past, or you don’t receive much support from family or friends, can make you more susceptible to developing PTSD after a traumatic event.
+This will help them feel stronger and regain a sense of control. You will need to adapt the following suggestions to take account of the persons culture and what is possible in the particular crisis situation.
 &lt;br&gt;
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
+Encourage positive coping strategies
+- Get enough rest
+- Eat as regularly as possible and drink water
+- Talk and spend time with family and friends.
+&lt;br&gt;
+- Discuss problems with someone you trust. 
+- Do activities that help you relax (walk, sing, pray, play with children).
+- Do physical exercise
+- Find safe ways to help others in the crisis and get involved in community activities.
+&lt;br&gt;
+Discourage negative coping strategies:
+- Don’t take drugs, smoke or drink alcohol
+- Don’t sleep all day
+&lt;br&gt;
+- Don’t work all the time without any rest or relation
+- Don&#39;t isolate yourself from friends and loved ones.
+- Don’t neglect basic personal hygiene
+- Don’t be violent
+&lt;br&gt;
+It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term post-traumatic stress disorder. PTSD is addressed in the following unit.
 ***
