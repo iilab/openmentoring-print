@@ -1,9 +1,12 @@
 # Hijacked Account
 
-## Other places to check
+## If you *cannot* login
 
-Look at the account settings. Have they changed?
+Different providers have different recovery procedures or ways to reset passwords.
 &lt;br&gt;
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
+Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
+&lt;br&gt;
+In the reset case, it is important to change the password immediately after regaining access to your account.
+![](recap.png)
 
 ***
