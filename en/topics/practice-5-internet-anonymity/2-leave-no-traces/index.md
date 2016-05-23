@@ -1,6 +1,9 @@
 # How to leave less traces while browsing
 
-## Introduction
+## Key takeaways
 
-Introduction text...
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
 ***
