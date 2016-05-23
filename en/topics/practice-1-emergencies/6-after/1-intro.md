@@ -1,7 +1,7 @@
 
 ## Introduction
 
-![](unit.png &quot;Landing image for the unit&quot;)
+![](unit.png)
 &lt;br&gt;
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 &lt;br&gt;

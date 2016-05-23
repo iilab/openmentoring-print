@@ -1,4 +1,4 @@
-# Account Hijacking
+# Hijacked Account
 
 ## Key takeaways
 

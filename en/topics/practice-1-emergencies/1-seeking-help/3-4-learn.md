@@ -1,7 +1,7 @@
 
 ## Seeking and providing remote help
 
-![](recap.png &quot;Lesson section recap image&quot;)
+![](recap.png)
 When you are seeking remote help from a third party please keep the following in mind:
 - If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
 &lt;br&gt;
