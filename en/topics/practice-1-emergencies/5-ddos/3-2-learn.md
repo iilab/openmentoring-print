@@ -1,5 +1,5 @@
 
-## Possible other reasons you may be suffering from a down or defaced website
+## Other reasons your site might be down
 
 ![](recap.png)
 

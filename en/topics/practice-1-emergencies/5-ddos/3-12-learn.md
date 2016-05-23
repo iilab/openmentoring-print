@@ -1,7 +1,8 @@
 
-## Learn
+## Steps to fix the problem
 
-## Steps to mitigate a DDOS attack
+![](recap.png)
+
 Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
 &lt;br&gt;
 Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour.
