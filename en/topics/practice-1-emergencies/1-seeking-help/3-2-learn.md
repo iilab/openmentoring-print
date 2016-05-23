@@ -1,6 +1,7 @@
 
 ## Encrypted Communication
 
+![](recap.png &quot;Lesson section recap image&quot;)
 Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
 &lt;br&gt;
 Secure communication is always a trade-off between security and convenience. Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
