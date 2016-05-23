@@ -1,12 +1,9 @@
 # How to have voice calls?
 
-## How to make calls?
+## Key takeaways
 
-In this section, you will learn how to:
- * Make a call
- * Take a call
- * Verifying the call
+## A New Post
 
-[Learn more about risk types and levels](resources/risk-assessment.md)
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 ***

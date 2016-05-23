@@ -10,5 +10,5 @@
  * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you&#39;re ready for the next time.)
 &lt;br&gt;
 See also:
- * [Glossary of terms](resources/glossary.md)
- * [Further Reading and Resources](resources)
+ * [!!!Physical](resources/glossary.md)
+ * Umbrella
