@@ -1,9 +1,10 @@
 # How to share the Open Mentoring App
 
-## Key takeaways
+## How to share Open Mentoring content with others?
 
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+ * First you need to share the app.
+ * Then you need to share content.
 
+[Learn more about risk types and levels](resources/risk-assessment.md)
 ***
