@@ -1,10 +1,13 @@
 # After an Emergency
 
-## Key takeaways
+## Introduction
 
-Key takeaway for this section will be:
-- [Re-evaluating your emergency and security procedures](en/topics/practice-1-emergencies/6-after/3-learn.md)
-- [Emergency funding for journalists and human rights defenders](en/topics/practice-1-emergencies/6-after/3-1-learn.md)
-- [Addressing traumatic stress after an emergency](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
+![](unit.png)
+&lt;br&gt;
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
+&lt;br&gt;
+It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+&lt;br&gt;
+This section describe what to do after an emergency takes place.
 
 ***
