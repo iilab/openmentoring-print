@@ -1,6 +1,7 @@
 
 ## Questions to answer when you first notice a device is missing
 
+![](recap.png)
 Should you believe your device is seized, start by answering some simple questions:
 &lt;br&gt;
 - What happened?
