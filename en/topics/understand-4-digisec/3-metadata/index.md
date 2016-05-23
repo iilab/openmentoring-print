@@ -1,9 +1,6 @@
 # Metadata
 
-## Key takeaways
+## Introduction
 
-Key takeaways from this section include:
-- What is metadata?
-- Where can I find metadata?
-- How can metadata expose me or my connections?
+This unit will provide an overview of what metadata is an why it is important.
 ***
