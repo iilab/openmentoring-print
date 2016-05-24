@@ -1,7 +1,7 @@
 
 ## Learn
 
-If these steps do not work and your account is being abused, contact the platform provider directly. Explain...
+If these steps do not work and your account is being abused, contact the platform provider directly. Most providers have a &quot;Support&quot; page where you can find out how to do this.
 &lt;br&gt;
 Alternatively, contact the following organisations for possible support in shutting the account down.
 Immediate Support/Digital?
