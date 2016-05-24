@@ -1,9 +1,10 @@
 # Getting Started
 
-## Introduction
+## Getting Started
+
 
 ![](unit.png)
-&lt;br&gt;
-This section gives introductory support for how to face the most common types of digital threats.
+
+Learn how to recognise and deal with the most common types of digital threats.
 
 ***
