@@ -1,7 +1,9 @@
 # Getting Started
 
-## Introduction
+## Key takeaways
 
-This topic covers the fundamentals security basics of mobile phones and devices
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 ***
