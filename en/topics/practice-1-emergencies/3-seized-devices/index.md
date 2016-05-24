@@ -1,7 +1,4 @@
 # Devices Seized
-
-## Identifying what was on the missing device
-
 ![](recap.png)
 
 Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more. This will help you learn what may have been exposed or stolen.

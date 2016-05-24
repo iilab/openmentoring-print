@@ -1,11 +1,10 @@
 # DDOS Attack
 
-## Network problem
+## Billing problem
 
 ![](recap.png)
 
-To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
-&lt;br&gt;
-If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
+
+Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 ***
