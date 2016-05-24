@@ -1,12 +1,11 @@
 
-## How to ask for help
+## Dealing with insecure channels
 
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
 &lt;br&gt;
-In many cases, it is better to reach out for help insecurely than not to reach out for help at all. Knowing that the channel is insecure will determine how freely you can talk about the situation.
+In many cases, it is better to reach out for help insecurely than not to reach out for help at all. You might want to share only limited information or use code words when you know that the channel is insecure.
 &lt;br&gt;
-If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
-&lt;br&gt;
-If you think that your communication might be targeted, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) lessons will help you establish secure communications.
+If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
 &lt;br&gt;
 ![](recap.png)
+&gt; Share only limited information using code words.

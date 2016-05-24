@@ -1,5 +1,5 @@
 
-## Normal Communication
+## Unencrypted channels
 
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 &lt;br&gt;

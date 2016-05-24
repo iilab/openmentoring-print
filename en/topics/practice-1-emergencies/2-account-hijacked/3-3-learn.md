@@ -1,8 +1,11 @@
 
-## Other places to check
+## Other places to check for suspicious activity
 
-Look at the account settings. Have they changed?
+Check for suspicious addresses which your email might be automatically forwarding your emails to.
 &lt;br&gt;
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
+Also check email addresses or phone numbers listed when you&#39;re resetting your password (this might be called password recovery settings).
 &lt;br&gt;
-If you answered yes to any of these questions, it&#39;s possible someone has accessed hijacked your account.
+Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
+&lt;br&gt;
+![](recap.png)
+&gt; account details one might not think of.
