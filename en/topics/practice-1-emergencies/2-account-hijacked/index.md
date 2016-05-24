@@ -1,6 +1,6 @@
 # Hijacked Account
 
-## Other places to check
+## If you *cannot* login
 
 Look at the account settings. Have they changed?
 &lt;br&gt;
