@@ -1,4 +1,7 @@
 # Your Well Being
+
+## Learn
+
 ##Coping strategies for traumatic stress
 Everyone has natural ways of coping. Encourage people to use their own positive coping strategies.
 &lt;br&gt;
