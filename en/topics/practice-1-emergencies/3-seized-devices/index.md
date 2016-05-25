@@ -1,19 +1,17 @@
 # Devices Seized
 
-## Identifying what was on the missing device
+## Mitigating the problem
 
 ![](recap.png)
 
-Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more. This will help you learn what may have been exposed or stolen.
+If your device is still missing take the following four steps:
 &lt;br&gt;
-What sort of base software was it using, i.e. Windows, OS X, Android, iPhone?
+- Step 1: When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.
 &lt;br&gt;
-Did you use encryption tools for email or chat (such as PGP and OTR)? This will help you learn if your information is secure or not.
+- Step 2: Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the [Account Hijacked](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
 &lt;br&gt;
-What accounts does this device have access to? Examples include email, social media, chat, IM and banking accounts that the device can access. Is the device used for secondary authentication?
+- Step 3: Turn on 2-factor authentication for all accounts that were accessible by this device. Please note that not all accounts support 2-factor authentication.
 &lt;br&gt;
-Do your accounts have saved passwords and/or automatically log in? This is common for email, Skype and other chat programs, or if you save your passwords in your web browser instead of a password manager like KeePass. If you do, be sure to change you passwords immediately.
-&lt;br&gt;
-After answering these questions, take the following steps to mitigate the problem:
+- Step 4: If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
 
 ***
