@@ -3,8 +3,8 @@
 
 ![](scenario.png)
 
-Brenda returned to her office after a lunch meeting, only to find her laptop mising. She is worried that she has not only lost important research, but also put her sources potentially at risk.
+Brenda returned to her office, only to find her laptop missing. She is worried that her laptop contains information that could put her sources at risk.
 &lt;br&gt;
 ![](scenario.png)
 
-She needs to know what was on the device before it went missing, as well as what security protections were in place. Brenda is worried that if she does not change settings for all accounts logged in, personal information in her email and social media accounts may get in the wrong hands.
+She needs to know what was on the device before it went missing and what security protections were in place. Brenda is worried that if she doesn&#39;t have a clear view of the damage done, she isn&#39;t able to start recovering.

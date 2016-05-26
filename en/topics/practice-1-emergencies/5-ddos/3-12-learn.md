@@ -1,5 +1,5 @@
 
-## Steps to fix the problem
+## 4 steps to fix the problem
 
 ![](recap.png)
 
@@ -11,7 +11,7 @@ This can help you redirect your site much faster once it comes under attack (the
 &lt;br&gt;
 This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
 &lt;br&gt;
-Step 3: Move your site to a DDoS mitigation service.  Examples:
+Step 3: Move your site to a DDoS mitigation service. Examples:
 -- Deflect.ca
 -- Google’s Project Shield
 -- CloudFlare’s Project Galileo
