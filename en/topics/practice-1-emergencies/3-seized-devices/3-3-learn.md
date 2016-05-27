@@ -1,17 +1,12 @@
 
-## Identify security protections
+## Content and documents
+
+Make an inventory of *what information* was on your seized device. Examples may include files, location data, credit card data and more. This will help you learn about what may have been exposed or stolen.
+&lt;br&gt;
+If you had some of your information encrypted, think about where your encryption keys are and what content you encrypted. This will help you know more about who potentially could read the content of your files and documents.
+&lt;br&gt;
+Did you use encryption tools for email or chat (such as PGP and OTR)? This will help you learn if the content of your communications are secure or not.
+&lt;br&gt;
+Do your accounts have saved passwords or automatically log in when you turn your device on? Are your passwords saved in your web browser instead of a password manager like KeePassX? If you do, be sure to change you passwords immediately and refer to the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lesson.
 
 ![](recap.png)
-Strong security protection such as full disk encryption means that sensitive information on a missing device is less likely to get into the wrong hands. We recommend using full disk encryption and protecting devices with passwords whenever possible.
-&lt;br&gt;
-Failing this, password
-## give intro and say what to do depending on results of questions.
-
-&lt;br&gt;
-Was the device protected by a password or other security measures?
-&lt;br&gt;
-Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
-&lt;br&gt;
-
-&lt;br&gt;
-Do you have remote access to the device?
