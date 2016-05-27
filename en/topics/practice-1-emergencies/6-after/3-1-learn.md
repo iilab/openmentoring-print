@@ -1,9 +1,10 @@
 
-## Emergency funding
+## Revising emergency plans
+
+Now is a good time to go back to your emergency and security plans to see what worked and what did not.
+&lt;br&gt;
+When necessary, this is a good time to try to improve your organisational procedures (e.g. procedures when on a mission or when organising a training).
+&lt;br&gt;
+Think about the best way to either respond or not to potential emergencies in all stages of an event or activity (e.g. in terms of preparation, implementation, and after an activity has ended).
 
 ![](recap.png)
-
-Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
-&lt;br&gt;
-If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
-&lt;br&gt;

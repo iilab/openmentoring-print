@@ -1,10 +1,8 @@
 # Your Security
 
-## Introduction
+## Key takeaways
 
-![](recap.png)
-
-Journalists often work on stories that may expose them to risk of physical or other forms of harm. This unit will provide an overview of thinking about security in terms of yourself.
-
+* [Why do you need a security assessment as a journalist?](en/topics/understand-2-security/1-your-security/3-1-learn.md)
+* What goes into making a security assessment?
 
 ***
