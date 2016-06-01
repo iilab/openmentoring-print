@@ -1,7 +1,29 @@
 # Assessing Security Risks
 
-## Identifying threats, capacities, and vulnerabilities
+## Assessing risk
 
+
+**ASSESSING RISK**
+**Risk refers** to possible events, however uncertain, that result in harm.
+
+You can think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
+
+&lt;br&gt;
+
+**Threats** refer to a declaration or indication of an intention to inflict harm.
+The higher the threats, the higher your risk.
+An example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.
+
+&lt;br&gt;
+
+**Vulnerabilities** refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk. An example of a vulnerability may be having a very short, simple and easy to break password, like &#39;123456&#39;.
+
+&lt;br&gt;
+
+**Capacities** refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk. An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
+It&#39;s worth noting that capacities and vulnerabilities are often &quot;two sides of the same coin&quot;.
+
+&lt;br&gt;
 
 **IDENTIFYING THREATS, CAPACITIES AND VULNERABILITIES**
 It may help for you to map them out on a matrix, like this:
