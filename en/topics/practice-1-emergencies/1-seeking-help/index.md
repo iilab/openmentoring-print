@@ -1,13 +1,25 @@
 # Seeking Remote Help
 
-## Test
+## Organisations you may reach out to
 
-&lt;quiz name=&quot;&quot;&gt;
-    &lt;question&gt;
-        &lt;p&gt;Landlines are not encrypted but mobile phones are&lt;/p&gt;
-        &lt;answer correct&gt;Yes&lt;/answer&gt;
-        &lt;answer&gt;No&lt;/answer&gt;
-        &lt;explanation&gt; Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.&lt;/explanation&gt;
-    &lt;/question&gt;
-&lt;/quiz&gt;
+Dealing with digital emergencies:
+- Digital Security Helpline (Access Now): help@accessnow.org
+
+Dealing with emergencies within the first 24 hours:
+- Front Line Defenders: info@frontlinedefenders.org
+- Rory Peck Trust: www.rorypecktrust.org
+
+&lt;br&gt;
+Dealing with emergencies after the first 24 hours:
+- Amnesty International: www.amnesty.org
+- Committee to Protect Journalists: JournAsst@cpj.org
+- Reporters Sans Frontieres: internet@rsf.org
+
+&lt;br&gt;
+Providing digital emergency expertise:
+- Tactical Technology Collective: ttc@tacticaltech.org
+- Digital Defenders Partnership: ddp@hivos.org
+- Internews: info@internews.org
+- Electronic Frontier Foundation: info@eff.org
+
 ***
