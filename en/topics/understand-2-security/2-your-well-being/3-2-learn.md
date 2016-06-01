@@ -11,7 +11,8 @@ If exposure to stress is excessive or long-term however, symptoms can persist an
 Not only is this worse for the body physically and mentally, but chronic stress can also erode coping mechanisms.
 &lt;br&gt;
 Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.
-
+![](recap.png)
+&lt;br&gt;
 # Effects of Chronic stress
 **Physical symptoms:**
 -Exhaustion
@@ -96,3 +97,5 @@ Sharing a problem with others may help you find a solution and will make you fee
 Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
 &lt;br&gt;
 **Think positive!**
+&lt;br&gt;
+![](recap.png)

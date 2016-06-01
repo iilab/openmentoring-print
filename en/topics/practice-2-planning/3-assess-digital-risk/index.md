@@ -1,11 +1,8 @@
 # Assessing Digital Security Risks
 
-## Learn about
+## Assess digital risk
 
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-- Understanding digital risks
-- Assessing digital risks
+Understand and assess digital risks faced by journalists.
 
 ***

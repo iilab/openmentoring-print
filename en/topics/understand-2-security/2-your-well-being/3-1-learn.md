@@ -12,6 +12,7 @@ This response involves a person becoming utterly still—although highly alert�
 &lt;br&gt;
 A great example would be of a bank robbery in which a customer stands quietly in the corner, thereby managing to avoid the robbers’ unwanted attention.
 &lt;br&gt;
+![](recap.png)
 &gt; 2.
 # Flight
 
@@ -19,7 +20,7 @@ This response is the strategy that puts as much distance as possible between us 
 &lt;br&gt;
 You might experience this in your work when sources or colleagues stop listening to you, evading or changing the subject, talking to a neighbor, or crack inappropriate jokes.
 &lt;br&gt;
-
+![](recap.png)
 &gt; 3.
 # Comply
 
@@ -29,7 +30,7 @@ In the bank robbery example, this could be an employee who assists the robbers i
 &lt;br&gt;
 In your work, you may see this with people participating in something they find particularly uncomfortable. They do this in the mindset that if they just cooperate they will get through it quickly and will then be able to move on to less distressing work.
 &lt;br&gt;
-
+![](recap.png)
 &gt; 4.
 # Tend and Befriend
 
@@ -43,7 +44,7 @@ In doing so, she gains the respect and gratitude of the parents in the room. Sho
 &lt;br&gt;
 In your work, you may see this with colleagues becoming overly concerned for each other’s well-being—a sign that they themselves might be experiencing distress.
 &lt;br&gt;
-
+![](recap.png)
 &gt; 5.
 # Posture
 
@@ -53,7 +54,7 @@ Going back to the bank robbery, a manager may confront the robbers with the lie 
 &lt;br&gt;
 In your work, you may see this with colleagues becoming argumentative and obstructive in order to undermine the authority of the trainer.
 &lt;br&gt;
-
+![](recap.png)
 &gt; 6.
 # Fight
 
@@ -63,7 +64,7 @@ In the bank robbery situation, this would involve one or more people physically 
 &lt;br&gt;
 In your work, you might see this by a colleague being blamed for or even insulting another colleague for distress they are experiencing.
 &lt;br&gt;
-
+![](recap.png)
 &gt; 7.
 # Dissociation
 
@@ -74,3 +75,4 @@ In the situation of the bank robbery, we might imagine a customer starting to gi
 You might see this in your work if someone experiencing great distress becomes emotionally disconnected or inappropriate. Uncontrollable laughter when nothing is funny or daydreaming may both be signs of dissociation.
 &lt;br&gt;
 Dissociation is a sign of serious traumatization.
+![](recap.png)

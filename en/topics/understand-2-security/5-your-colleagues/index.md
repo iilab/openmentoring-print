@@ -1,7 +1,8 @@
 # Your colleagues
 
-## Introduction
+## Your colleagues
 
-DW is particuarly interested in this!!!!!!!
+
+Learn about security practices for your colleagues.
 
 ***

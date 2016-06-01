@@ -1,4 +1,4 @@
 
 ## Introduction
 
-Learn about your short and long term well-being as a journalist.
+Learn about ensuring your short and long term well-being.

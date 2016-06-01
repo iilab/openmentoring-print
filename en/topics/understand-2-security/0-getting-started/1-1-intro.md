@@ -1,5 +1,7 @@
 
-## Introduction
+## Getting Started
 
-Introduction text...
-1. What is the unit about. Should answer by itself: &quot;Am I in the right place?&quot;
+
+![](unit.png)
+
+Learn how to recognise and deal with the most common types of security concerns.

@@ -1,39 +1,93 @@
 # Your Well Being
 
-## Build your emotional resilience
+## Traumatic stress
 
-Any person whose work exposes them to many stories and pictures of traumatic events is at an increased risk of indirect exposure to traumatic stress.
-&lt;br.
-This includes psychologists, counselors, journalists, nurses, paramedics, as well as police officers and other emergency personnel.
+# Identifying traumatic stress
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 &lt;br&gt;
-The emotional risk is two-pronged: burnout and vicarious traumatization.
+It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
 &lt;br&gt;
-# Burnout
-Burnout refers to long-term exhaustion caused by working too hard, for too long, and without sufficient support. It has been linked to a range of emotional and physical health problems, as well as poor performance in the workplace.
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
 &lt;br&gt;
-While exposure to threats or trauma is not a necessary feature of burnout, more emotionally demanding responsibilities place workers at greater risk.
+Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 &lt;br&gt;
-The prevention of burnout requires a two-part strategy. The prevention of burnout is a shared responsibility between you and your employer.
+![](recap.png)
 &lt;br&gt;
-1. Organizations must ensure a healthy work environment; appropriate levels of training, supervision, and support; reachable expectations and targets; as well as regular vacation time.
+
+# Effects of traumatic stress
+At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.
 &lt;br&gt;
-2. You should educate yourself of the risks of burnout, monitor your own emotional health, and actively sustain your own emotional health.
+Immediately after a traumatic event, it is common for people to feel shocked, or dazed, or unable to process their own feelings.
 &lt;br&gt;
-If you are suffering from burnout , the key to recovery is rest. It is essential that the you take time away from work to recover their emotional health.
+Over several hours or days, the feelings of shock and denial gradually fade, and other thoughts and feelings take their place.
 &lt;br&gt;
-During this period, it is important to examine and redesign the work situation that led to the problem in the first place. In addition, stress management training might help prevent future recurrence.
+People react differently and take different amounts of time to come to terms with a traumatic event. Even so, you may be surprised by the strength of your feelings.
 &lt;br&gt;
-# Vicarious Traumatization
-Vicarious traumatization refers to traumatic stress arising from exposure to the frightening experiences of others.
+**Emotional effects of traumatic event**
+*Frightened* — that the same thing will happen again, or that you might lose control of your feelings and break down
 &lt;br&gt;
-In most cases, vicarious traumatization shares the features of the [traumatic stress reaction](en/topics/understand-2-security/2-your-well-being/3-4-learn.md) relating to the stories that they have heard or the work they do.
+*Helpless* - that something really bad happened and you could do nothing about it.
 &lt;br&gt;
-In some cases, vicarious traumatization takes the form of a loss of faith in the essential goodness of others and a growing sense that one’s work is meaningless.
+*Angry* — about what has happened and with whoever was responsible
 &lt;br&gt;
-The prevention of vicarious traumatization requires limiting exposure to distressing stories or increasing the capacity to process traumatic material.
+*Guilty* — that you have survived when others have suffered or died
 &lt;br&gt;
-While the former may be difficult for many people due to the demands of their jobs, regular supervision and ongoing support is helpful for the latter.
+*Sad* - particularly if people were injured or killed, especially someone you knew.
 &lt;br&gt;
- If you are suffering from vicarious traumatization, counseling is recommended. If you do not seek counseling, you might not make the most of your time off, resolve the vicarious trauma, or rest.
+*Ashamed or embarrassed* — that you have these strong feelings you can’t control, especially if you need others to support you
+&lt;br&gt;
+*Relieved* - that danger is over and that the danger has gone.
+&lt;br&gt;
+*Hopeful* - that your life will return to normal. People can start to feel more positive about things quite soon after a trauma.
+&lt;br&gt;
+**Physical effects of traumatic stress**
+Strong feelings affect your physical health. In the weeks after a trauma, you may find that you:
+&lt;br&gt;
+- Cannot sleep
+- Feel very tired
+- Dream a lot and have nightmares
+&lt;br&gt;
+- Have poor concentration
+- Have memory problems
+- Have difficulty thinking clearly
+- Suffer from headaches
+&lt;br&gt;
+- Experiences change in appetite
+- Experiences changes in sex-drive or libido
+- Have aches and pains
+- Feel that your heart is beating faster.
+&lt;br&gt;
+It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are weak or sick.
+&lt;br&gt;
+![](recap.png)
+&lt;br&gt;
+# Dealing with traumatic stress
+
+Everyone has natural ways of coping. Encourage people to use their own positive coping strategies. This will help them feel stronger and regain a sense of control.
+&lt;br&gt;
+Adapt the following suggestions to take account of the person and what is possible after the crisis.
+&lt;br&gt;
+**Encourage positive coping strategies**
+- Get enough rest
+- Eat as regularly as possible and drink water
+- Talk and spend time with family and friends.
+&lt;br&gt;
+- Discuss problems with someone you trust.
+- Do activities that help you relax (walk, sing, pray, play with children).
+- Do physical exercise
+- Find safe ways to help others in the crisis and get involved in community activities.
+&lt;br&gt;
+**Discourage negative coping strategies**
+- Don’t take drugs, smoke or drink alcohol
+- Don’t sleep all day
+- Don’t work all the time without any rest or relation
+&lt;br&gt;
+- Don&#39;t isolate yourself from friends and loved ones.
+- Don’t neglect basic personal hygiene
+- Don’t be violent
+&lt;br&gt;
+**Weeks and months after**
+Keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
+&lt;br&gt;
 
 ***
