@@ -1,4 +1,3 @@
-# Assessing Security Risks
 
 ## Assessing risk
 
@@ -65,5 +64,3 @@ It may be that you find there are a lot of threats to your work, and it can be d
 &lt;br&gt;
 
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
-
-***

@@ -1,8 +1,8 @@
 
 ## Scenario
 
-Lisa is starting a new story about corruption in the gold mining industry, and wants to speak with a number of stakeholder involved.
+![](scenario.png)
+Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
 &lt;br&gt;
-Before making plans to meet, however, she makes sure she has told colleagues of her plans and the time and location of her meeting, as well as chosen to meet the stakeholders in a public space.
-&lt;br&gt;
-After the meeting, Lisa again contacts her colleagues to inform them that she is safe.
+![](scenario.png)
+Brenda needs to create a security assessment. If she doesn&#39;t get input from her editors and colleagues, she&#39;s worried she won&#39;t  she won&#39;t be best prepared.
