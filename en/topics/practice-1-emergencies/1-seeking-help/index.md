@@ -1,25 +1,16 @@
 # Seeking Remote Help
 
-## Organisations you may reach out to
+## Establishing trust when reaching out
 
-Dealing with digital emergencies:
-- Digital Security Helpline (Access Now): help@accessnow.org
-
-Dealing with emergencies within the first 24 hours:
-- Front Line Defenders: info@frontlinedefenders.org
-- Rory Peck Trust: www.rorypecktrust.org
-
+Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.
 &lt;br&gt;
-Dealing with emergencies after the first 24 hours:
-- Amnesty International: www.amnesty.org
-- Committee to Protect Journalists: JournAsst@cpj.org
-- Reporters Sans Frontieres: internet@rsf.org
-
+It might be safer to presume that an adversary may have access to all your account details as well as your communications when seeking help and might be attempting to provide specific, bad advice.
 &lt;br&gt;
-Providing digital emergency expertise:
-- Tactical Technology Collective: ttc@tacticaltech.org
-- Digital Defenders Partnership: ddp@hivos.org
-- Internews: info@internews.org
-- Electronic Frontier Foundation: info@eff.org
+If you know the party you&#39;re reaching out to, using a video call or a phone call will help establish that you&#39;re really in contact with them.
+&lt;br&gt;
+When you are initiating contact with third parties you might want to create a new email account from a trusted device. If possible, do not rely on unknown people you find online.
+&lt;br&gt;
+![](recap.png)
+&gt; have a video chat.
 
 ***
