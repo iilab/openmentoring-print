@@ -1,5 +1,5 @@
 
-## Key takeaways
+## Learn how to
 
 ## A New Post
 

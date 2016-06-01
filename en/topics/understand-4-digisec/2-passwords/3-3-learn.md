@@ -1,4 +1,3 @@
-# Passwords
 
 ## Use a password manager
 
@@ -8,5 +7,3 @@ Password managers are considered to be the most secure way to use complex and va
 &lt;br&gt;
 To enhance convenience, you can synchronise your password database - for example, by using a cloud service, so that you can access your passwords on various computers as well as your phone. That way, you&#39;ll have round the clock access to strong passwords.
 &lt;br&gt;
-
-***
