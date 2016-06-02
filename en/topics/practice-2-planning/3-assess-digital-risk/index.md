@@ -1,8 +1,6 @@
 # Assessing Digital Security Risks
 
-## Assess digital risk
+## Introduction
 
-
-Understand and assess digital risks faced by journalists.
 
 ***
