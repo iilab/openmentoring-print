@@ -1,4 +1,4 @@
-# Getting Started with Signal
+# Using Veracrypt
 
 ## Getting started with Veracrypt
 

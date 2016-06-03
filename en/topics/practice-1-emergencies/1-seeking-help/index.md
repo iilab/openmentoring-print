@@ -1,25 +1,14 @@
 # Seeking Remote Help
 
-## Organisations you may reach out to
+## Dealing with insecure channels
 
-Dealing with digital emergencies:
-- Digital Security Helpline (Access Now): help@accessnow.org
-
-Dealing with emergencies within the first 24 hours:
-- Front Line Defenders: info@frontlinedefenders.org
-- Rory Peck Trust: www.rorypecktrust.org
-
+Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
 &lt;br&gt;
-Dealing with emergencies after the first 24 hours:
-- Amnesty International: www.amnesty.org
-- Committee to Protect Journalists: JournAsst@cpj.org
-- Reporters Sans Frontieres: internet@rsf.org
-
+In many cases, it is better to reach out for help insecurely than not to reach out for help at all. You might want to share only limited information or use code words when you know that the channel is insecure.
 &lt;br&gt;
-Providing digital emergency expertise:
-- Tactical Technology Collective: ttc@tacticaltech.org
-- Digital Defenders Partnership: ddp@hivos.org
-- Internews: info@internews.org
-- Electronic Frontier Foundation: info@eff.org
+If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
+&lt;br&gt;
+![](recap.png)
+&gt; Share only limited information using code words.
 
 ***

@@ -1,6 +1,6 @@
 # Who controls and owns your information on Social Networking platforms?
 
-## Introduction
+## Key takeaways
 
 ## A New Post
 
