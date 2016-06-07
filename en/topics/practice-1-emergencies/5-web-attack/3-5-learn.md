@@ -43,5 +43,5 @@ Also note that if your only backups are at your hosting provider, an attacker ma
 Move to a DDoS Mitigation service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks.
 &lt;br&gt;
 Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
-
+&lt;br&gt;
 ![](recap.png)
