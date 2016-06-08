@@ -1,5 +1,5 @@
 
-## Controlling personal information on your Facebook profile
+## Control access to personal information on your Facebook profile
 
 You can control who can see various elements of your profile. This doesn&#39;t happen in the main privacy settings but directly when editing your profile.
 &lt;br&gt;
