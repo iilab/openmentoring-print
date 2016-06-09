@@ -1,13 +1,5 @@
 
-## Learn
-
-![](recap.png)
-About what is in the unit ...:
-* [Unit description!](topics/practice-1-emergencies/1-seeking-help)
-&lt;br&gt;
-About what is in the next unit ...:
-* [Next unit description!](topics/practice-1-emergencies/1-seeking-help)
-&lt;br&gt;
+## Choosing the right lesson
 
 To minimise potential risks, it is important to always prepare a security assessment. Learn how to do so in the Your Security lesson.
 * [Your Security](en/topics/understand-2-security/1-your-security/1-intro.md)

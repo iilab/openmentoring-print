@@ -1,6 +1,7 @@
 # Getting Started
 
-## Introduction
+## Getting started with digital security
 
-Introduction text...
+Learn the basics of digital security in order to start using your devices more safely.
+
 ***
