@@ -2,5 +2,5 @@
 
 ## Introduction
 
-Introduction text...
+
 ***

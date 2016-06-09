@@ -1,7 +1,6 @@
 # Creating a standard encrypted volume
 
-## Create a standard encrypted volume
+## Key takeaways
 
-Learn how to create a standard volume using Veracrypt
 
 ***

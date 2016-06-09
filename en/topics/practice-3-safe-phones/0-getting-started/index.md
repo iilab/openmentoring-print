@@ -1,9 +1,7 @@
 # Getting Started
 
-## Learn how to
+## Safe phones
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Learn the basics of using mobile phones security.
 
 ***
