@@ -1,7 +1,7 @@
 
 ## Learn about
 
-- Team configurations
+- Roles in the news cycle and security.  
 - Sharing of information with your teams
 - [Talking about security with your colleagues](link to level up resources on working with people who don&#39;t want to learn)
 

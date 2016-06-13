@@ -2,4 +2,4 @@
 ## Your colleagues
 
 
-Learn about how to talk about security with your colleagues.
+The security of your colleagues is part of your own security.

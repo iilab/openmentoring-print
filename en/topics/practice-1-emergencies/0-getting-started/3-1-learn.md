@@ -8,5 +8,4 @@ Make sure you verify where the information is coming from. Was it via email? Did
 &lt;br&gt;
 Verify that the information is coming from a source you trust: do you recognise the email address, or the website address? Fake emails could be sent to mislead you into giving information about your accounts.
 &lt;br&gt;
-![](recap.png)
 &gt; taking a second closer look at the symptom is important.
