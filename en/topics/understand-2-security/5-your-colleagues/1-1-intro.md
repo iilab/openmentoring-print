@@ -2,4 +2,4 @@
 ## Your colleagues
 
 
-Learn about security practices for your colleagues.
+Learn about how to talk about security with your colleagues.
