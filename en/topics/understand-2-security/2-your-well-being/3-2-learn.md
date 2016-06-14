@@ -2,32 +2,39 @@
 ## Chronic stress
 
 # Identifying chronic stress
+&gt; define chronic. 
+
 Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
 &lt;br&gt;
 With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
 &lt;br&gt;
+
 If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress.
 &lt;br&gt;
-Not only is this worse for the body physically and mentally, but chronic stress can also erode coping mechanisms.
+# Hard to deal with problems
+Not only is this worse for the body physically and mentally, but chronic stress can make it hard to deal with daily problems.
+
 &lt;br&gt;
 Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.
 ![](recap.png)
 &lt;br&gt;
-# Effects of Chronic stress
-**Physical symptoms:**
--Exhaustion
--Hyperactivity
--Sleeping difficulties or excessive sleep
+# Physical symptoms
+- Exhaustion
+- Hyperactivity
+- Sleeping difficulties or excessive sleep
 &lt;br&gt;
+# Physical symptoms
 -Slight flu-like symptoms
 -Headaches
 -Heightened blood pressure and heart rate
 -Nausia or vomiting.
 &lt;br&gt;
-**Behavioural symptoms:**
+# Behavioral symptoms
 -Avoiding genuine social contact and relationships
 -Substance abuse (caffeine/alcohol/drugs)
 -A series of short and casual romantic/sexual relationships
+&lt;br&gt;
+# Behavioral symptoms:
 -Risk taking
 -Withdrawal
 -Irritability or a constant tendency to pick quarrels
