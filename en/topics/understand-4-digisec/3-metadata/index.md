@@ -1,7 +1,9 @@
 # Metadata
 
-## Getting started with metadata
+## Learn about
 
-Understand what metadata is and why it is important.
+- What metadata is
+- Where you can find metadata
+- How metadata can expose you or your connections
 
 ***
