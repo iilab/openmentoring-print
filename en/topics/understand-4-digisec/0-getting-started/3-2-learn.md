@@ -12,6 +12,3 @@ To understand what metadata is and how it can leave you and your network vulnera
 &lt;br&gt;
 To learn about why secure communication is important and tools you should use to communicate safely, choose the Secure communications lesson:
 - [Secure communications](en/topics/understand-4-digisec/4-secure-communications/1-intro.md)
-&lt;br&gt;
-- [Protecting your identity](en/topics/understand-4-digisec/5-protect-identity/1-intro.md)
-- [Establishing trust](en/topics/understand-4-digisec/6-trust/1-intro.md)
