@@ -1,7 +1,7 @@
 # How to prevent your traffic from being watched
 
-## Connect to Tor
+## Learn how to
 
-Learn to connect to the Tor network to browse safely or circumvent internet censorship.
+- [Connect to the Tor network](en/topics/tool-9-tor-browser/1-connect-to-tor/3-learn.md)
 
 ***
