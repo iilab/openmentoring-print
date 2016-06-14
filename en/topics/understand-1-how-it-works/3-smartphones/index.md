@@ -1,6 +1,6 @@
 # Smart Phones
 
-## Scenario
+## Introduction
 
-Scenario text...
+Introduction text...
 ***
