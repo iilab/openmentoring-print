@@ -1,7 +1,8 @@
 # How to have voice calls?
 
-## Create new KeePassX entries
+## Learn how to
 
-Learn how to create new KeePassX entries.
+- [Create a new entry in your database](en/topics/tool-4-keepassx/2-create-new-entry/3-1-howto.md)
+- [Edit an existing entry in your database](en/topics/tool-4-keepassx/2-create-new-entry/3-1-howto.md)
 
 ***
