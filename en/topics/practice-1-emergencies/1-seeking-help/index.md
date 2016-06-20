@@ -1,4 +1,4 @@
-# 
+# Seeking Remote Help
 
 ## Dealing with insecure channels
 
