@@ -1,4 +1,4 @@
-# Getting Started with Signal
+# Encrypt and decrypt messages using Enigmail
 
 ## Getting started with Enigmail
 

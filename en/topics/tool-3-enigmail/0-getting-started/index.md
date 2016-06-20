@@ -1,4 +1,4 @@
-# Getting Started with Signal
+# Getting Started with Enigmail
 
 ## Getting started with Enigmail
 
