@@ -1,6 +1,7 @@
 # Your Story
 
-## Introduction
+## Your story
 
-Introduction text...
+Learn the basics about security of your story
+
 ***
