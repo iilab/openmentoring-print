@@ -1,7 +1,8 @@
 # Metadata
 
-## Getting started with metadata
+## Learn about
 
-Understand what metadata is and why it is important to digital security
+- [What metadata is](en/topics/understand-4-digisec/3-metadata/3-1-learn.md)
+- [How metadata can expose you or your connections](en/topics/understand-4-digisec/3-metadata/3-2-learn.md)
 
 ***
