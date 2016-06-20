@@ -9,3 +9,6 @@ When developing a security plan with your colleagues, be sure to include people 
 &lt;br&gt;
 # Positions to include
 For journalists, this means developing information and operational security strategies for everyone from a stringer to a driver, from a journalist to an editor.
+&lt;br&gt;
+# See also
+- opsec - information compartmentalisation.
