@@ -4,7 +4,7 @@
 # Protect your information
 Take measures to ensure that you recover your most important information in the unfortunate event that you lose a computer either through theft, system collapse, or confiscation/destruction by your adversaries.
 &lt;br&gt;
-
+# Keep a backup
 Your best bet is to keep a backup of your important information. When creating a backup:
 &lt;br&gt;
 # Identify important information
