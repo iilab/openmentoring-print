@@ -1,39 +1,56 @@
 # How to chat securely?
 
-## Installing Jitsi
+## Adding a Facebook account on Jitsi
 
+# Two settings to change
+Facebook has two settings that you might need to change before Jitsi can connect to your Facebook Chat.
+&lt;br&gt;
+# Facebook Username
+Facebook requires a username for Jitsi to connect to Facebook chat. Many Facebook users already have a username.
+&lt;br&gt;
+# Check your username
+To check your username, log in to your Facebook account: your username is what appears in the location bar of your browser after https://www.facebook.com/ when you view your Timeline or Page.
+&lt;br&gt;
+# Other places you can find your username
+Your username is also included in your Facebook email address (e.g. username@facebook.com).
+&lt;br&gt;
+# Other places you can find your username
+You can get a new Facebook username by going to your Account Settings &gt; General section or by visiting https://www.facebook.com/username.
+&lt;br&gt;
+# Verify your Facebook account
+To set a new username Facebook might want to verify your account, which might require sending an SMS to a mobile phone number which you will need to provide to Facebook in the verification process.
+&lt;br&gt;
+# More questions?
+For more details see Facebook’s explanation of usernames.
+&lt;br&gt;
+# App Settings
+Facebook’s “application platform” needs to be turned on before Jitsi can connect to Facebook Chat.
+&lt;br&gt;
+# Turn &quot;Apps you use&quot; on
+Visit your Facebook Account Settings &gt; Apps section and check that the setting for “Apps you use” is turned “On”.
+&lt;br&gt;
+**Note:** Turning Facebook’s &quot;application platform&quot; on opens up much of your Facebook data to third-party application developers.
+&lt;br&gt;
+This data is available not only to the Facebook applications that you use, but also to the Facebook applications used by any of your friends.
+&lt;br&gt;
+# Hide personal information
+After turning on Facebook’s &quot;application platform&quot;, be sure to check the settings under &quot;Apps others use&quot;. This allows you to hide some personal information from applications used by your friends.
+&lt;br&gt;
+# No setting for total privacy
+Unfortunately, Facebook does not offer settings to hide all personal information.
+&lt;br&gt;
+# Determine privacy trade-off
+Certain categories of information (like your friend list, gender, or info you have made public) are visible as long as Facebook’s &quot;application platform&quot; is turned &quot;on&quot;. It is up to you to determine whether this is an acceptable trade-off.
+&lt;br&gt;
+# Add your Facebook account
+Now you are prepared to add your Facebook account on Jitsi. To do this follow the steps below:
+&lt;br&gt;
+# Step 1: Add new Jitsi account
+Select **File &gt; Add New Account...** in the main menu bar of Jitsi.
+&lt;br&gt;
+# Step 2: Add new Facebook account
+In the &quot;Add New Account&quot; dialogue, *Network* menu choose Facebook, enter your username and password and Click **&quot;Add&quot;**.
 
-You can install Jitsi through the following seven steps:
-&lt;br&gt;
-# Step 1: Download Jitsi
-Download Jitsi through its [website](https://jitsi.org/Main/Download).
-&lt;br&gt;
-# Step 2: Open Jitsi
- Double click on the downloaded Jitsi file; the Open File - Security Warning dialogue box might appear. If it does, click on *&quot;Run&quot;* to activate the Windows Installer screen, followed by the *&quot;Welcome to the Jitsi Setup Wizard&quot;* window.
-&lt;br&gt;
-# Step 3: Agree to End User License Agreement
-Click on **&quot;Next&quot;** to activate the &quot;End User License Agreement&quot; window; **check** the &quot;I accept the terms in the License Agreement&quot; option to enable the *Next* button, and then click on **&quot;Next&quot;** to activate the &quot;Destination Folder&quot; window.
-&lt;br&gt;
-# Step 4: Activate &quot;Additional Tasks&quot;
-Click on **&quot;Next&quot;** to activate the &quot;Additional Tasks&quot; window and accept the default settings as presented.
-&lt;br&gt;
-**Note:** Enabling the Auto-start when computer restarts or reboots option may slow down the overall function of your computer, especially if you already have multiple applications configured to run when your computer starts up.
-&lt;br&gt;
-# Step 5: Install Jitsi
-Click on **&quot;Next&quot;** to activate the &quot;Ready to Install Jitsi&quot; window, and then click on **&quot;Install&quot;** to activate the &quot;Installing Jitsi&quot; window displaying the installation progress bar.
-&lt;br&gt;
-# Step 6: Finish installation
-Click on **&quot;Finish&quot;** to complete the installation process and automatically launch the &quot;Jitsi Sign in&quot; window as follows:
-
-![](jitsi-en-win-07.png)
-&lt;br&gt;
-**Note:** In some instances, installing and launching Jitsi for the first time triggers a Windows Security Alert prompt screen. This alert is normal behaviour for the MS Windows operating system, it is ok to continue with using Jitsi.
-&lt;br&gt;
-Even if you do not click on any of the buttons, and simply close the prompt window, Jitsi is still able to communicate through Facebook Chat.
-
-![](jitsi-en-win-08.png)
-&lt;br&gt;
-# Step 7: Authorise Jitsi
-Select both Private and Public networks check-boxes, and then click Allow access to see the Jitsi Sign in window or main user interface window.
+![](jitsi-en-win-16.png)
 
 ***
