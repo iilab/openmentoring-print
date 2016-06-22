@@ -1,5 +1,5 @@
 
-## Learn
+## Assess the situation
 
 
 # Appropriate response

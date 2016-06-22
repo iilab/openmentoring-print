@@ -1,5 +1,5 @@
 
-## Scenario
+## A missing laptop...
 
 Brenda returns to her office, only to find her laptop missing. She worries that her laptop contains information that could put her sources at risk.
 &lt;br&gt;

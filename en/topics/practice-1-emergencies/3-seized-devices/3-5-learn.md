@@ -1,5 +1,5 @@
 
-## Learn
+## If your device is still missing
 
 &gt; Step 1
 # Remove authorization

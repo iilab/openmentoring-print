@@ -1,6 +1,6 @@
 # Devices Seized
 
-## Learn
+## Contacts and linked accounts
 
 # Who is at risk?
 
