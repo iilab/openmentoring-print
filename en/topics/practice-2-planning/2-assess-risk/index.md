@@ -1,27 +1,24 @@
 # Assessing Security Risks
 
-## Mapping threats, capacities, and vulnerabilities
+## Understand threats, capacities, and vulnerabilities
 
-
-It may be helpful for you to map them out on a matrix, like this:
-
-| Threats | Who? | Digital Vulnerabilities | Digital Capacities | Digital Capacities Required |
-| ------- | ---- | ----------------------- | ------------------ | --------------------------- |
-|         |      |                         |                    |                             |
-|         |      |                         |                    |                             |
-
-
+Think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
 &lt;br&gt;
-
-**An example for an Investigative Journalist might look like this:**
-
-|                 Threats                 |                           Who?                          |                                               Digital Vulnerabilities                                               |                    Digital Capacities                   |                                                                     Digital Capacities Required                                                                      |
-| --------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Office raid, confiscation, legal action | Police, judiciary                                       | Sensitive files are not protected, Computers have unregistered copies of windows, LGBT material in browsing history | Backups are regular and kept outside the office         | Hiding sensitive information Using Free Software Deleting information securely                                                                                       |
-| Digital Surveillance of network traffic | Police/Government officials, untrusted IT administrator | plain text or unencrypted communications                                                                            | Encryption of all communications                        | Only access https websites, utilize anonymizing browsing software (Tor), use encrypted communications (Signal, PGP email, etc), encrypt or obfuscate sensitive files |
-| Burglary                                | Local delinquents                                       | Old locks on the office doors, organisation smartphones are not kept in a safe place                                | Smartphones have SIM lock and no social networking apps | Smartphone encryption, and a safe place to keep them                                                                                                                 |
-|                                         |                                                         |                                                                                                                     |                                                         |                                                                                                                                                                      |
-
-This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.
+# Threats
+Threats refer to a declaration or indication of an intention to inflict harm. The higher the threats, the higher your risk.
+&lt;br&gt;
+An example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.
+&lt;br&gt;
+# Vulnerabilities
+Vulnerabilities refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk.
+&lt;br&gt;
+An example of a vulnerability may be having a very short, simple and easy to break password, like &#39;123456&#39;.
+&lt;br&gt;
+# Capacities
+Capacities refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk.
+&lt;br&gt;
+An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
+&lt;br&gt;
+It&#39;s worth noting that capacities and vulnerabilities are often &quot;two sides of the same coin&quot;.
 
 ***
