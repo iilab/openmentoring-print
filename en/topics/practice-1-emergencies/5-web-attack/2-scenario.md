@@ -1,5 +1,5 @@
 
-## Scenario
+## A down website
 
 Brenda publishes a story about corruption on her organisation&#39;s website. Hours later, the website is down and she worries it is being attacked to silence her.
 &lt;br&gt;
