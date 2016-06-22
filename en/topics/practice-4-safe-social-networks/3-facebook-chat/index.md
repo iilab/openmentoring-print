@@ -1,64 +1,56 @@
 # How to chat securely?
 
-## Encrypting your Facebook instant messages
+## Adding a Facebook account on Jitsi
 
-# Step 1: Open security settings
-Select **Tools &gt; Options** from the Jitsi menu and subsequently select the **Security** tab and its **Chat** sub-tab. You will then see a window similar to one shown in the image below:
+# Two settings to change
+Facebook has two settings that you might need to change before Jitsi can connect to your Facebook Chat.
+&lt;br&gt;
+# Facebook Username
+Facebook requires a username for Jitsi to connect to Facebook chat. Many Facebook users already have a username.
+&lt;br&gt;
+# Check your username
+To check your username, log in to your Facebook account: your username is what appears in the location bar of your browser after https://www.facebook.com/ when you view your Timeline or Page.
+&lt;br&gt;
+# Other places you can find your username
+Your username is also included in your Facebook email address (e.g. username@facebook.com).
+&lt;br&gt;
+# Other places you can find your username
+You can get a new Facebook username by going to your Account Settings &gt; General section or by visiting https://www.facebook.com/username.
+&lt;br&gt;
+# Verify your Facebook account
+To set a new username Facebook might want to verify your account, which might require sending an SMS to a mobile phone number which you will need to provide to Facebook in the verification process.
+&lt;br&gt;
+# More questions?
+For more details see Facebook’s explanation of usernames.
+&lt;br&gt;
+# App Settings
+Facebook’s “application platform” needs to be turned on before Jitsi can connect to Facebook Chat.
+&lt;br&gt;
+# Turn &quot;Apps you use&quot; on
+Visit your Facebook Account Settings &gt; Apps section and check that the setting for “Apps you use” is turned “On”.
+&lt;br&gt;
+**Note:** Turning Facebook’s &quot;application platform&quot; on opens up much of your Facebook data to third-party application developers.
+&lt;br&gt;
+This data is available not only to the Facebook applications that you use, but also to the Facebook applications used by any of your friends.
+&lt;br&gt;
+# Hide personal information
+After turning on Facebook’s &quot;application platform&quot;, be sure to check the settings under &quot;Apps others use&quot;. This allows you to hide some personal information from applications used by your friends.
+&lt;br&gt;
+# No setting for total privacy
+Unfortunately, Facebook does not offer settings to hide all personal information.
+&lt;br&gt;
+# Determine privacy trade-off
+Certain categories of information (like your friend list, gender, or info you have made public) are visible as long as Facebook’s &quot;application platform&quot; is turned &quot;on&quot;. It is up to you to determine whether this is an acceptable trade-off.
+&lt;br&gt;
+# Add your Facebook account
+Now you are prepared to add your Facebook account on Jitsi. To do this follow the steps below:
+&lt;br&gt;
+# Step 1: Add new Jitsi account
+Select **File &gt; Add New Account...** in the main menu bar of Jitsi.
+&lt;br&gt;
+# Step 2: Add new Facebook account
+In the &quot;Add New Account&quot; dialogue, *Network* menu choose Facebook, enter your username and password and Click **&quot;Add&quot;**.
 
-![](jitsi-en-win-35.png)
-&lt;br&gt;
-# Step 2: Generate a key
-Click on the **&quot;Generate&quot;** button. As a result you will see the fingerprint of the key that has been generated:
-
-![](jitsi-en-win-36.png)
-&lt;br&gt;
-# One key per account
-One key is generated for each account. You only need to do this again if you add a new account or install Jitsi on another device and do not move the existing keys to it.
-&lt;br&gt;
-# You are now ready to communicate
-&lt;br&gt;
-# Step 3: Open a new chat
-Select a contact from the Jitsi main window and click on the *send message icon* (first from the left under the contact&#39;s name) to open a text chat window:
-
-![](jitsi-en-win-37.png)
-&lt;br&gt;
-# Know when your chats are encrypted
-Note the Encrypt chat with OTR icon, the open padlock on the right-top side of the window. This inconspicuous symbol informs you whether the chat is encrypted or not. Now the lock is open (there is a tiny space between handle and the body of the lock!).
-&lt;br&gt;
-# Step 4: Encrypt the chat
-Click on the Encrypt chat with OTR icon. Note the changes in the window:
-![](jitsi-en-win-38.png)
-&lt;br&gt;
-# Encryption is now on
-Observe that the padlock is now locked. This means that whatever messages you and your contact send to each other are encrypted. Note the message that this is an unverified private conversation and that you should authenticate your contact.
-&lt;br&gt;
-# Step 5: Authenticate contact
-Click on the link authenticate sally.the.doer@jit.si to open the Authenticate Buddy window:
-
-![](jitsi-en-win-39.png)
-&lt;br&gt;
-# Compare your fingerprints
-Note the message that encourages you to compare the fingerprints of vyour keys with your contact over another channel (not this text chat). In doing this, you can be more certain that you are communicating with your contact and not somebody else.
-&lt;br&gt;
-# Do so face to face
-A good choice for key comparisons is to do it face to face, or via video or voice communication as these provide easier means to authenticate the identity of the other person.
-&lt;br&gt;
-# Verify the fingerprint
-After you compare fingerprints, select the option I have verified the fingerprint from the pull-down menu and click on Authenticate Buddy:
-![](jitsi-en-win-40.png)
-&lt;br&gt;
-# Return to chat
-Closing the Authenticate Buddy window returns you to the chat window:
-
-![](jitsi-en-win-41.png)
-&lt;br&gt;
-# Authentication verified
-Note that padlock no longer includes the orange triangle with the white exclamation mark. This means that you have authenticated your contact.
-&lt;br&gt;
-# Only verify once per contact
-The authentication should be done only once per contact. If the triangle with exclamation mark returns, it means that you are chatting to somebody who you have not yet authenticated.
-&lt;br&gt;
-# Re-authenticate contacts
-This can happen when your contact moves to another device with another encryption key (another installation of Jitsi, or another OTR enabled program, etc.). In this case you will need to re-authenticate each other again to be sure of the identity of person with whom you communicate.
+![](jitsi-en-win-16.png)
 
 ***

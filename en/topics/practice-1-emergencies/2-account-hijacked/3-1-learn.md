@@ -15,3 +15,5 @@ Now time to confirm if your suspicions are founded? The next instructions will h
 &lt;br&gt;
 # Stop using account
 Until you better understand the situation we recommend you stop using this account for sharing sensitive information.
+&lt;br&gt;
+&gt; Change your password

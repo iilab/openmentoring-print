@@ -9,3 +9,5 @@ Check to see if your account was accessed at a time when you were not online or 
 &lt;br&gt;
 # Are you using Tor?
 Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+&lt;br&gt;
+&gt; Review our account activity
