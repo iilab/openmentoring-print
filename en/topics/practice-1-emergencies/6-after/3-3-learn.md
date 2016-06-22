@@ -12,3 +12,4 @@ Traumatic Stress is a normal reaction to an abnormal situation. It&#39;s very po
 &lt;br&gt;
 # Learn more
 To learn about what traumatic stress is, how it affects you, and how to deal with it, refer to the [Your Well-Being](en/topics/understand-2-security/2-your-well-being/index.html) unit presented elsewhere in this tool.
+&lt;br&gt;
