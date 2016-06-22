@@ -1,5 +1,5 @@
 
-## Learn
+## Get back control of your account
 
 # Use a different computer
 Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.

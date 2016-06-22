@@ -1,5 +1,5 @@
 
-## Learn
+## Getting your site back up
 
 &gt; Step 1
 # Talk to your webmaster

@@ -1,7 +1,18 @@
 
-Part of having a security plan for your story means making sure your story can continue without you.
-&lt;br&gt;
-Keep your documents in a safe place and have backups
-&gt; security - your story - about information security from the angle of reporting and investigating. making sure your story can carry on, keep you documents in safe places, have backups, think about how others could keep up if something happens to you. your story is bigger than you sometimes - not just about security of people involved, but also about security of information you are accumulating. direct people to other things on infosec - tor, encryption, communications,
+## Steps to secure information for your story
 
-&gt; check out saferjourno toolkit - internees. sharing files can put lives at risk. loose lips and open devices.   keeping data safe. case study - spy who came in from the code. put this in your story. also look at researching security.
+Sometimes your story is bigger than you. You have a responsibility to protect the people involved and the information you are accumulating.
+&lt;br&gt;
+Sharing files or communicating insecurely can put lives at risk. Be sure to take all appropriate steps to protect you, your information, and others involve in the story.
+&lt;br&gt;
+Keep your documents in a safe place and have backups of important documents. Refer to the [Computer Hygiene](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-4-learn.md) section to learn how to do so.
+&lt;br&gt;
+Remember to store your backups securely. Refer to the [Veracrypt](en/topics/tool-5-veracrypt/0-getting-started/1-1-intro.md) lesson to learn how to do so.
+&lt;br&gt;
+Communicate securely with people involved, such as sources, and editors. Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Encryption](en/topics/understand-4-digisec/1-encryption/1-1-intro.md) lessons to learn how to do so.
+&lt;br&gt;
+If you research your stories online, you may be leaving a record of your activities on your PCs and on the Web which can potentially compromise your safety – and that of your  sources – when investigating stories that others are trying to suppress.
+&lt;br&gt;
+Refer to the [Tor Browser lesson](en/topics/tool-9-tor-browser/0-getting-started/1-1-intro.md) to learn how to conduct internet research safely.
+&lt;br&gt;
+Prepare a plan for how others can continue working on your story if something happens to you. Refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) section to learn how to do so.

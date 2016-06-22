@@ -1,5 +1,5 @@
 
-## Learn
+## Rule out other reasons
 
 # Programming or technical problems
 To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
