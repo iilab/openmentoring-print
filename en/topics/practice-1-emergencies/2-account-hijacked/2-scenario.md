@@ -1,5 +1,5 @@
 
-## Scenario
+## A suspicious email...
 
 Brenda receives an email from her service provider alerting her that her social media account password has recently changed. She suspects her social media account has been hijacked.
 &lt;br&gt;
