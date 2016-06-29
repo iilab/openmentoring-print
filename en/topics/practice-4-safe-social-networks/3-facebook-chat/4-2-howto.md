@@ -1,9 +1,6 @@
 
-## Installing Jitsi
+## Installing Jitsi in 7 steps
 
-
-You can install Jitsi through the following seven steps:
-&lt;br&gt;
 # Step 1: Download Jitsi
 Download Jitsi through its [website](https://jitsi.org/Main/Download).
 &lt;br&gt;
