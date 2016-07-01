@@ -1,4 +1,4 @@
-# Assessing Security Risks
+# Assess security risks
 
 ## Understand threats, capacities, and vulnerabilities
 

@@ -1,4 +1,4 @@
-# Getting started with Social Networks
+# Get started with Social Networks
 
 ## Safe social networks
 

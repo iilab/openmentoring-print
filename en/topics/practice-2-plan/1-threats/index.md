@@ -1,4 +1,4 @@
-# Understanding Threats
+# Understand Threats
 
 ## Threats
 
