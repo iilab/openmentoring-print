@@ -1,5 +1,5 @@
 
-## To take a call
+## Take a call
 
 # Call alert
 When you get a signal call, you&#39;ll see on your screen &quot;SIGNAL CALL&quot;

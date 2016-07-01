@@ -1,5 +1,5 @@
 
-## Things you should know about VeraCrypt
+## Know about VeraCrypt
 
 # About VeraCrypt
 VeraCrypt works like an electronic safe in which you can securely store your files.

@@ -1,5 +1,5 @@
 
-## Using KeepassX
+## Use KeepassX
 
 # What is KeepassX
 Password managers are considered to be the most secure way to use complex and varying passwords and still remember them. KeePassX is an open-source password manager, and once you&#39;ve set your master password, it creates and saves passwords for you.

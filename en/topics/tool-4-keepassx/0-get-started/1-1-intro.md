@@ -1,7 +1,4 @@
-# Using KeePassX
 
-## Getting started with KeePassX
+## Get started with KeePassX
 
 Learn how to use KeePassX for securely managing passwords for multiple accounts.
-
-***

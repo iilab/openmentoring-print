@@ -1,5 +1,5 @@
 
-## Registering with Signal
+## Register Signal
 
 # Step 1: Register your phone number
 Begin the registration process by entering your phone number including country code and press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/005.png)

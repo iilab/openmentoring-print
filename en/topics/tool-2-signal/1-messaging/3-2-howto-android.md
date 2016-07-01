@@ -1,5 +1,5 @@
 
-## Messaging Individuals
+## Message Individuals
 
 # Step 1: Open Signal
 Open Signal and tap at the top of your screen to bring up your contact list.
