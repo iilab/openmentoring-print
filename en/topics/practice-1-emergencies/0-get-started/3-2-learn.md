@@ -18,10 +18,11 @@ Have you opened an attachment that you think may have been malicious? Does your 
 
 &lt;br&gt;
 Is your website down? Has it been defaced?
-* Choose the [DDOS Attack](topics/practice-1-emergencies/ddos.md) lesson.
+* Choose the [Website under attack](topics/practice-1-emergencies/ddos.md) lesson.
 
 &lt;br&gt;
-* Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) lesson explains how to prepare so you are ready for the next time.
+Have you just gotten through an emergency? Not sure what to do when the dust settles? Make sure to know how to prepare so you are ready for the next time.
+* The [after the emergency is past](topics/practice-1-emergencies/after.md) lesson
 
 &lt;br&gt;
 &gt; You&#39;ve just learned the different lessons available for **Dealing with emergencies**
