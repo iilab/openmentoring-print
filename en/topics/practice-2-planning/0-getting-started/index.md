@@ -1,7 +1,7 @@
 # Getting Started
 
-## Learn how to
+## Introduction
 
-- [Choose the right lesson for you](en/topics/practice-2-planning/0-getting-started/3-learn.md)
+Learn to identity threats and risks you may face as a journalist or human rights defender.
 
 ***
