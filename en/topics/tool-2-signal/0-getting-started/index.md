@@ -1,4 +1,4 @@
-# Getting Started with Signal
+# Get Started with Signal
 
 ## Getting started with Signal
 

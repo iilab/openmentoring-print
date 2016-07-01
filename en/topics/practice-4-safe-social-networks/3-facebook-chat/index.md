@@ -1,4 +1,4 @@
-# How to chat securely?
+# Chatting securely
 
 ## Adding a Facebook account on Jitsi
 
