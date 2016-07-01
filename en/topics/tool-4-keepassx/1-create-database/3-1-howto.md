@@ -10,6 +10,7 @@ Choose a strong and memorable master passphrase, then enter it. Refer to the [Pa
 # Step 3. (Optional)
 If you want to see the master passphrase you have chosen and entered, you can click the {‘eye&#39; button} to the right of the entry field. (Be aware of your current circumstances, however. An untrusted person nearby may see your exposed master passphrase!)
 &lt;br&gt;
+# Re-hide your password
 To re-hide your master password, click the {&#39;eye&#39; button} again.
 &lt;br&gt;
 #Step 4.
