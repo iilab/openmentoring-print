@@ -1,7 +1,7 @@
 # Using Veracrypt
 
-## Getting started with Veracrypt
+## Learn about
 
-Learn to use Veracrypt, a tool to encrypt your data and prevent anyone who does not have your passphrase from accessing your information.
+ - [Veracrypt protects your files by encrypting them with a passphrase](en/topics/tool-5-veracrypt/0-getting-started/3-learn.md)
 
 ***
