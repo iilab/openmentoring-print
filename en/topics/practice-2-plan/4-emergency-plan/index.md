@@ -1,6 +1,6 @@
 # Preparing for emergencies with your contacts
 
-## Introduction
+## Emergency plans
 
 Learn to develop an emergency plan as a journalist.
 
