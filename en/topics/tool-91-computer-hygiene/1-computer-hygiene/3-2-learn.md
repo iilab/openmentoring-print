@@ -1,5 +1,5 @@
 
-## Keeping your software up to date
+## Keep your software up to date
 
 # Limit software weakness and vulnerabilities
 Keeping your software up to date limits weaknesses in the software that can be exploited by malware.

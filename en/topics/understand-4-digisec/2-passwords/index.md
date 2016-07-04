@@ -1,6 +1,6 @@
 # Passwords
 
-## Getting started with passwords
+## Get started
 
 Learn about how to create strong and secure passwords
 

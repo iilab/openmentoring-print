@@ -1,6 +1,6 @@
 # Secure Communications
 
-## Introduction
+## Get started
 
 Learn about using secure communications.
 

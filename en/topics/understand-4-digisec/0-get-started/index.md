@@ -1,7 +1,8 @@
-# Getting Started
+# Get Started
 
-## Getting started with digital security
+## Learn about
 
-Learn the basics of digital security in order to start using your devices more safely.
+- [Seven steps to digital security](topics/understand-4-digisec/0-getting-started/3-1-learn.md)
+- [Choosing the right digital security lesson](topics/understand-4-digisec/0-getting-started/3-2-learn.md)
 
 ***

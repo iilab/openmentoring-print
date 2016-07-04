@@ -1,5 +1,5 @@
 
-## Learn
+## Importance of trust
 
 # &quot;Be careful with each other...&quot;
 The old activist motto &quot;Be careful with each other, so that we can be dangerous together” has a lot to do with trust.
