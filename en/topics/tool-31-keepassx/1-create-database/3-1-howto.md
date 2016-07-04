@@ -5,7 +5,7 @@
 In the KeePassX menu, select File, then New Database.
 &lt;br&gt;
 # Step 2.
-Choose a strong and memorable master passphrase, then enter it. Refer to the [Passwords lesson](en/topics/understand-4-digisec/2-passwords/1-1-intro.md) to learn how to do so
+Choose a strong and memorable master passphrase, then enter it. Refer to the [Passwords lesson](topics/understand-4-digisec/2-passwords/1-1-intro.md) to learn how to do so
 &lt;br&gt;
 # Step 3. (Optional)
 If you want to see the master passphrase you have chosen and entered, you can click the {‘eye&#39; button} to the right of the entry field. (Be aware of your current circumstances, however. An untrusted person nearby may see your exposed master passphrase!)

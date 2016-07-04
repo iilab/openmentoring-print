@@ -8,10 +8,10 @@ Stress management is an individual process. There is no one best set of techniqu
 It is important to recognise that is it is impossible to take care of others if you do not take care of yourself.
 &lt;br&gt;
 # Learn about stress.
-Be aware of the [signs and symptoms](en/topics/understand-2-security/2-your-well-being/3-2-learn.md) of stress.
+Be aware of the [signs and symptoms](topics/understand-2-security/2-your-well-being/3-2-learn.md) of stress.
 &lt;br&gt;
 # Know yourself
-Learn to [observe your feelings](en/topics/understand-2-security/2-your-well-being/3-3-learn.md) and attitudes before trying to control your behaviour.
+Learn to [observe your feelings](topics/understand-2-security/2-your-well-being/3-3-learn.md) and attitudes before trying to control your behaviour.
 &lt;br&gt;
 # Eat well and exercise
 Establish a regular exercise program and stick to it. Beneficial exercise includes deep breathing and muscle relaxation exercises. Keep a healthy diet and eat regularly.

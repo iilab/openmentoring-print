@@ -11,4 +11,4 @@ Continue with the recommended steps to remove the virus
 
 &lt;br&gt;
 # Step 3
-Following the guidelines in the [Safer Communication](en/topics/understand-4-digisec/4-secure-communications/1-intro.md) section, send the screenshot to a trusted person with security expertise
+Following the guidelines in the [Safer Communication](topics/understand-4-digisec/4-secure-communications/1-intro.md) section, send the screenshot to a trusted person with security expertise

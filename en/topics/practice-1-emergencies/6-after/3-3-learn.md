@@ -11,6 +11,6 @@ It is therefore important to know how to react following a traumatic event, and 
 Traumatic stress is a normal reaction to an abnormal situation. It&#39;s very possible that after an emergency, you or your colleagues may be suffering from traumatic stress.
 &lt;br&gt;
 # Learn more
-To learn about what traumatic stress is, how it affects you, and how to deal with it, refer to the [Your Well-Being](en/topics/understand-2-security/2-your-well-being/index.html) unit presented elsewhere in this tool.
+To learn about what traumatic stress is, how it affects you, and how to deal with it, refer to the [Your Well-Being](topics/understand-2-security/2-your-well-being/index.html) unit presented elsewhere in this tool.
 &lt;br&gt;
 &gt; Stress after trauma is a normal reaction to an abnormal situation.

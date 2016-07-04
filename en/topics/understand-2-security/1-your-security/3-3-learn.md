@@ -8,6 +8,6 @@ Consult diverse sources including journalists with experience in the location or
 &lt;br&gt;
 Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
 &lt;br&gt;
-An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
+An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
 &lt;br&gt;
 ![](recap.png)
