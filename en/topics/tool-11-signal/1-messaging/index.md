@@ -1,24 +1,29 @@
 # Messaging
 
-## Read fingerprints
+## Send files
 
 # Basics
-To confirm that the messages you are sending and receiving are with the right person, you should both verify your Signal identities with each other by verifying fingerprints.
+Signal allows you to send images, video and audio files to your contact.
 &lt;br&gt;
-# Step 1: Open existing conversation
-Open an existing conversation with your contact and tap at the top of the screen.
+# Step 1: Start a conversation
+Start a conversation with the person you want to send the file to.
 &lt;br&gt;
-# Step 2: Verify identity
-Tap &quot;Verify Identity&quot; from the pull-down menu.
+# Step 2:
+Tap the top right of your screen to bring up the menu and select &quot;Add attachment&quot;
 &lt;br&gt;
-# Step 3: Find fingerprint
-You will be presented with a 66-character fingerprint of your Signal identity and that of your contacts.
-&lt;br&gt;
-![13s.png](13s.png)
-&gt; Signal fingerprints
+![10s.png](10s.png)
+&gt; File type selection
 
+# Step 3: Select the type of file
+Choose from the list the type of file that you want to send - Picture / Video / Audio
 &lt;br&gt;
-# Step 4: Read fingerprint
-Verify that you both have the same fingerprints for each other, either in person or via a medium that allows you to confirm visually or audibly to whom you are talking.
+![11s.png](11s.png)
+&gt; Image sent to contact
+
+# Step 4: Select the file
+Select the file you want to send.
+&lt;br&gt;
+# Step 5: Verify the file
+Verify that the file you want to send is in the compose window and press to send.
 
 ***

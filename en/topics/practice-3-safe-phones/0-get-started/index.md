@@ -1,7 +1,7 @@
 # Getting Started
 
-## Safe phones
+## Learn about
 
-Learn the basics of using mobile phones security.
+- [Basics of communicating securely on smart phones](topics/practice-3-safe-phones/0-getting-started/3-learn.md)
 
 ***
