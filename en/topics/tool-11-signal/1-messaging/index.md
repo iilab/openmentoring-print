@@ -1,4 +1,4 @@
-# Use Signal messaging
+# Messaging
 
 ## Read fingerprints
 
