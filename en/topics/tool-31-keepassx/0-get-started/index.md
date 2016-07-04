@@ -1,7 +1,7 @@
 # Using KeePassX
 
-## Learn about how
+## Get started with KeePassX
 
- - [KeePassX can manage passphrases for multiple accounts](topics/tool-4-keepassx/0-getting-started/3-learn.md)
+Learn how to use KeePassX for securely managing passwords for multiple accounts.
 
 ***

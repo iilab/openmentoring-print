@@ -1,27 +1,17 @@
 # Devices Seized
 
-## If your device is still missing
+## Contacts and linked accounts
 
-&gt; Step 1
-# Remove authorization
+# Who is at risk?
 
-When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.
+Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
 &lt;br&gt;
-&gt; Step 2
-# Change passwords
-
-Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the [Account Hijacked](topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) and the [Passwords](topics/understand-4-digisec/2-passwords/1-intro.md) lessons.
+# Removing linked accounts
+What accounts does your device have access to? Examples include email, social media, and messaging services that the device can access. Was your device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
 &lt;br&gt;
-&gt; Step 3
-# Turn on 2-factor authentication
-
-Turn on 2-factor authentication for all accounts that were accessible by this device. Please note that not all accounts support 2-factor authentication.
+# Hidden stories of metadata
+Even if you use encryption tools for email or chat, the [metadata](topics/understand-4-digisec/3-metadata/1-intro.md) of who and when you were communicating exposed. [Securely Communicate](topics/understand-4-digisec/4-secure-communications) with your networks to let them know.
 &lt;br&gt;
-&gt; Step 4
-# Erase data from device
-
-If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
-&lt;br&gt;
-&gt; Change your passwords 
+&gt; Remove accounts that were linked to your device
 
 ***

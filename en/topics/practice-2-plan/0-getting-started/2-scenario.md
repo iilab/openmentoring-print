@@ -1,5 +1,5 @@
 
-## Scenario
+## Starting a new project
 
 Brenda is planning a new project and needs to complete a threat and risk assessment. Before she can, she needs to know the difference between risks and threats and also how to identify them.
 &lt;br&gt;
