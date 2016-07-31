@@ -1,7 +1,6 @@
 # Get started
 
-## Get started
+## Learn how to
 
-Learn the basics of managing a website
 
 ***
